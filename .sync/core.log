@@ -2310,3 +2310,1988 @@
 80521-012619.987 Dequeueing "serocu31jfobjcu8qmtgu2isq2" <upload of ".git/index">
 80521-012623.544 PUT ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c" OK
 80521-012623.544 Ending "t58cateqaemn3v7tsqqv032te0" <upload of ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c"> : finished and removed
+80521-012624.535 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-012624.535 ".git" directory / update
+80521-012624.535 LOCAL ".git" directory
+80521-012624.536 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-012624.538 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/ef"
+80521-012624.538 ".git/objects" directory / update
+80521-012624.538 LOCAL ".git/objects" directory
+80521-012624.538 Queueing "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects">
+80521-012624.539 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/ef/tmp_obj_wSXUsN"
+80521-012624.539 ".git/objects/ef" directory / update
+80521-012624.539 LOCAL ".git/objects/ef" new directory
+80521-012624.539 Queueing "sc4r1qd2fbql4lh75jkabffit5" <local directory listing of ".git/objects/ef">
+80521-012624.539 Queueing "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef">
+80521-012624.539 Adding dependency "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef"> on "sc4r1qd2fbql4lh75jkabffit5" <local directory listing of ".git/objects/ef">
+80521-012624.539 Adding dependency "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef"> on "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects">
+80521-012624.539 Adding dependency "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef"> on "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-012624.539 REDUCE ".git/objects/ef" create collection
+80521-012624.539 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/ef/tmp_obj_wSXUsN"
+80521-012624.539 ".git/objects/ef" directory / update
+80521-012624.539 LOCAL ".git/objects/ef" directory
+80521-012624.539 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"
+80521-012624.539 ".git/objects/ef" directory / update
+80521-012624.539 LOCAL ".git/objects/ef" directory
+80521-012624.540 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/ef/tmp_obj_wSXUsN"
+80521-012624.541 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/55"
+80521-012624.542 ".git/objects" directory / update
+80521-012624.542 LOCAL ".git/objects" directory
+80521-012624.542 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.542 ".git/objects/55" directory / update
+80521-012624.542 LOCAL ".git/objects/55" new directory
+80521-012624.542 Queueing "0qqkug1g45q5br27e5q7jm1743" <local directory listing of ".git/objects/55">
+80521-012624.542 Queueing "dbpoj7buf6d45vlvr952v03694" <creation of remote directory ".git/objects/55">
+80521-012624.542 Adding dependency "dbpoj7buf6d45vlvr952v03694" <creation of remote directory ".git/objects/55"> on "0qqkug1g45q5br27e5q7jm1743" <local directory listing of ".git/objects/55">
+80521-012624.542 REDUCE ".git/objects/55" create collection
+80521-012624.544 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.544 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.545 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.545 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.545 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.545 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.545 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.545 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.545 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.545 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.545 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.545 ".git/objects/55" directory / update
+80521-012624.545 LOCAL ".git/objects/55" directory
+80521-012624.546 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.546 ".git/objects/55" directory / update
+80521-012624.546 LOCAL ".git/objects/55" directory
+80521-012624.546 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.546 ".git/objects/55" directory / update
+80521-012624.546 LOCAL ".git/objects/55" directory
+80521-012624.547 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"
+80521-012624.547 ".git/objects/55" directory / update
+80521-012624.547 LOCAL ".git/objects/55" directory
+80521-012624.547 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/55/tmp_obj_qLxseM"
+80521-012624.548 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/37/tmp_obj_ylqWNL"
+80521-012624.548 ".git/objects/37" directory / update
+80521-012624.548 LOCAL ".git/objects/37" directory
+80521-012624.548 Queueing "f1o081s9sleit5j277t8vpspb6" <local directory listing of ".git/objects/37">
+80521-012624.549 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/37/tmp_obj_ylqWNL"
+80521-012624.549 ".git/objects/37" directory / update
+80521-012624.549 LOCAL ".git/objects/37" directory
+80521-012624.549 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/37/tmp_obj_ylqWNL"
+80521-012624.549 ".git/objects/37" directory / update
+80521-012624.549 LOCAL ".git/objects/37" directory
+80521-012624.549 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/37/tmp_obj_ylqWNL"
+80521-012624.549 ".git/objects/37" directory / update
+80521-012624.549 LOCAL ".git/objects/37" directory
+80521-012624.549 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"
+80521-012624.550 ".git/objects/37" directory / update
+80521-012624.550 LOCAL ".git/objects/37" directory
+80521-012624.550 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/37/tmp_obj_ylqWNL"
+80521-012624.552 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/02"
+80521-012624.552 ".git/objects" directory / update
+80521-012624.552 LOCAL ".git/objects" directory
+80521-012624.553 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.553 ".git/objects/02" directory / update
+80521-012624.553 LOCAL ".git/objects/02" new directory
+80521-012624.553 Queueing "6i3oum3o2ril6u1kg4cqaoem81" <local directory listing of ".git/objects/02">
+80521-012624.553 Queueing "ed7275t36etbu9ga0ad8ig0i42" <creation of remote directory ".git/objects/02">
+80521-012624.553 Adding dependency "ed7275t36etbu9ga0ad8ig0i42" <creation of remote directory ".git/objects/02"> on "6i3oum3o2ril6u1kg4cqaoem81" <local directory listing of ".git/objects/02">
+80521-012624.553 REDUCE ".git/objects/02" create collection
+80521-012624.553 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.553 ".git/objects/02" directory / update
+80521-012624.553 LOCAL ".git/objects/02" directory
+80521-012624.554 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.554 ".git/objects/02" directory / update
+80521-012624.554 LOCAL ".git/objects/02" directory
+80521-012624.554 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.554 ".git/objects/02" directory / update
+80521-012624.554 LOCAL ".git/objects/02" directory
+80521-012624.554 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.555 ".git/objects/02" directory / update
+80521-012624.555 LOCAL ".git/objects/02" directory
+80521-012624.555 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.555 ".git/objects/02" directory / update
+80521-012624.555 LOCAL ".git/objects/02" directory
+80521-012624.555 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.555 ".git/objects/02" directory / update
+80521-012624.555 LOCAL ".git/objects/02" directory
+80521-012624.556 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.556 ".git/objects/02" directory / update
+80521-012624.556 LOCAL ".git/objects/02" directory
+80521-012624.557 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.557 ".git/objects/02" directory / update
+80521-012624.557 LOCAL ".git/objects/02" directory
+80521-012624.558 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.558 ".git/objects/02" directory / update
+80521-012624.558 LOCAL ".git/objects/02" directory
+80521-012624.558 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.558 ".git/objects/02" directory / update
+80521-012624.558 LOCAL ".git/objects/02" directory
+80521-012624.558 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"
+80521-012624.559 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/02/tmp_obj_mTSWFM"
+80521-012624.559 ".git/objects/02" directory / update
+80521-012624.559 LOCAL ".git/objects/02" directory
+80521-012624.559 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/71"
+80521-012624.559 ".git/objects" directory / update
+80521-012624.559 LOCAL ".git/objects" directory
+80521-012624.559 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/71/tmp_obj_qvjDHP"
+80521-012624.559 ".git/objects/71" directory / update
+80521-012624.559 LOCAL ".git/objects/71" new directory
+80521-012624.559 Queueing "pl7rfs7bmv6udh0d6dp0g5etl3" <local directory listing of ".git/objects/71">
+80521-012624.559 Queueing "ah7670n67n6aki8k33mr3okmo4" <creation of remote directory ".git/objects/71">
+80521-012624.559 Adding dependency "ah7670n67n6aki8k33mr3okmo4" <creation of remote directory ".git/objects/71"> on "pl7rfs7bmv6udh0d6dp0g5etl3" <local directory listing of ".git/objects/71">
+80521-012624.559 REDUCE ".git/objects/71" create collection
+80521-012624.559 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"
+80521-012624.559 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/71/tmp_obj_qvjDHP"
+80521-012624.559 ".git/objects/71" directory / update
+80521-012624.559 LOCAL ".git/objects/71" directory
+80521-012624.560 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/e6"
+80521-012624.560 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-012624.560 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/index.lock" / ".git/index"
+80521-012624.560 ".git/objects" directory / update
+80521-012624.560 LOCAL ".git/objects" directory
+80521-012624.560 ".git" directory / update
+80521-012624.560 LOCAL ".git" directory
+80521-012624.696 PUT ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef" OK
+80521-012624.696 Ending "9st2ed7kh5h7ugi6hpvnpl91g7" <upload of ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef"> : finished and removed
+80521-012625.540 Queueing "4c8tq63et3upqvn0pnvv0ddmg5" <digest creation for ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012625.540 Ending "sc4r1qd2fbql4lh75jkabffit5" <local directory listing of ".git/objects/ef"> : finished and removed
+80521-012625.540 DIGEST ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"
+80521-012625.540 DIGEST ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" 0 / 287
+80521-012625.540 DIGEST ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" OK
+80521-012625.541 Ending "4c8tq63et3upqvn0pnvv0ddmg5" <digest creation for ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> : finished and removed
+80521-012625.541 LOCAL ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" 41a70523 287 file
+80521-012625.541 PROP ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" lh=41a70523,in=40d3aff9
+80521-012625.541 Queueing "bubfcvvvtgjfiltku2iu593gm7" <upload of ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012625.541 Adding dependency "bubfcvvvtgjfiltku2iu593gm7" <upload of ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> on "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef">
+80521-012625.541 REDUCE ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" upload file
+80521-012625.547 Queueing "76oom7r1btg6q4ajen5c8im0g1" <digest creation for ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012625.547 Ending "0qqkug1g45q5br27e5q7jm1743" <local directory listing of ".git/objects/55"> : finished and removed
+80521-012625.547 DIGEST ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"
+80521-012625.548 DIGEST ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" 0 / 31966
+80521-012625.548 DIGEST ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" OK
+80521-012625.548 Ending "76oom7r1btg6q4ajen5c8im0g1" <digest creation for ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> : finished and removed
+80521-012625.548 LOCAL ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" 14827cef 31966 file
+80521-012625.548 PROP ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" lh=14827cef,in=2fc5524d
+80521-012625.548 Queueing "tv1u3ghlf0aehq8bpksbrmt272" <upload of ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012625.548 Adding dependency "tv1u3ghlf0aehq8bpksbrmt272" <upload of ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> on "dbpoj7buf6d45vlvr952v03694" <creation of remote directory ".git/objects/55">
+80521-012625.548 REDUCE ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" upload file
+80521-012625.550 Queueing "nabvui6oagp10mh0jusgt4nm12" <digest creation for ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012625.550 Ending "f1o081s9sleit5j277t8vpspb6" <local directory listing of ".git/objects/37"> : finished and removed
+80521-012625.550 DIGEST ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"
+80521-012625.550 DIGEST ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" 0 / 11131
+80521-012625.550 DIGEST ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" OK
+80521-012625.551 Ending "nabvui6oagp10mh0jusgt4nm12" <digest creation for ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> : finished and removed
+80521-012625.551 LOCAL ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" acb1f543 11131 file
+80521-012625.551 PROP ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" lh=acb1f543,in=7766a2a5
+80521-012625.551 Queueing "rs0qlilcpql4tfpv5uddu247i4" <upload of ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012625.551 REDUCE ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" upload file
+80521-012625.559 Queueing "frqv448acnkhr7bcodj1m4p9t2" <digest creation for ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012625.559 Ending "6i3oum3o2ril6u1kg4cqaoem81" <local directory listing of ".git/objects/02"> : finished and removed
+80521-012625.559 DIGEST ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"
+80521-012625.560 DIGEST ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" 0 / 122367
+80521-012625.560 Queueing "oi34potalbgt6eku02833n7h47" <digest creation for ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012625.560 Ending "pl7rfs7bmv6udh0d6dp0g5etl3" <local directory listing of ".git/objects/71"> : finished and removed
+80521-012625.560 LOCAL ".git/objects/e6" list new directory
+80521-012625.560 Queueing "sre13romal8lbd1au8od5kdhi2" <local directory listing of ".git/objects/e6">
+80521-012625.561 Queueing "c232bfnmmmksgr6pltf1kfa3o4" <creation of remote directory ".git/objects/e6">
+80521-012625.561 Adding dependency "c232bfnmmmksgr6pltf1kfa3o4" <creation of remote directory ".git/objects/e6"> on "sre13romal8lbd1au8od5kdhi2" <local directory listing of ".git/objects/e6">
+80521-012625.561 REDUCE ".git/objects/e6" create collection
+80521-012625.561 Ending "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects"> : finished and removed
+80521-012625.561 PROP ".git/index" rh=453a7d28,in=1d1b5c4a,id=74f55033,rm=a432579d
+80521-012625.561 Queueing "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index">
+80521-012625.561 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-012625.562 ".git/objects/ef" MKCOL
+80521-012625.562 ".git/objects/71" MKCOL
+80521-012625.562 ".git/objects/55" MKCOL
+80521-012625.562 Queueing "i7obu8i2uu9t9l4r36mb6igor6" <digest creation for ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+80521-012625.562 Ending "sre13romal8lbd1au8od5kdhi2" <local directory listing of ".git/objects/e6"> : finished and removed
+80521-012625.562 Queueing "a2dbar8fe0rrabj1a82irhu5s6" <pending ".git/objects/ef">
+80521-012625.562 Queueing "kq88nkhvcoaojc7e0s3dv6upj7" <pending ".git/objects/71">
+80521-012625.562 Adding dependency "kq88nkhvcoaojc7e0s3dv6upj7" <pending ".git/objects/71"> on "ah7670n67n6aki8k33mr3okmo4" <creation of remote directory ".git/objects/71">
+80521-012625.562 Queueing "ck9si7s4qgc5lopjdkibb0j204" <pending ".git/objects/55">
+80521-012625.563 DIGEST ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" OK
+80521-012625.563 Ending "frqv448acnkhr7bcodj1m4p9t2" <digest creation for ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> : finished and removed
+80521-012625.563 LOCAL ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" 39dbfd52 122367 file
+80521-012625.563 PROP ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" lh=39dbfd52,in=dd5bb553
+80521-012625.563 Queueing "4a0e1t9mu0plv8qk5nr3tf90d6" <upload of ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012625.563 Adding dependency "4a0e1t9mu0plv8qk5nr3tf90d6" <upload of ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> on "ed7275t36etbu9ga0ad8ig0i42" <creation of remote directory ".git/objects/02">
+80521-012625.563 REDUCE ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" upload file
+80521-012625.563 DIGEST ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+80521-012625.563 DIGEST ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" OK
+80521-012625.564 Ending "i7obu8i2uu9t9l4r36mb6igor6" <digest creation for ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"> : finished and removed
+80521-012625.564 LOCAL ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" 164c5fa8 15 file
+80521-012625.564 PROP ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" lh=164c5fa8,in=31549912
+80521-012625.564 Queueing "n9ieknhushpc9g75e9m4gfnu22" <upload of ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+80521-012625.564 Adding dependency "n9ieknhushpc9g75e9m4gfnu22" <upload of ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"> on "c232bfnmmmksgr6pltf1kfa3o4" <creation of remote directory ".git/objects/e6">
+80521-012625.564 REDUCE ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" upload file
+80521-012625.564 DIGEST 453a7d28 read OK
+80521-012625.564 DIGEST ".git/index" delta
+80521-012625.564 DIGEST ".git/index" 0 / 1222
+80521-012625.564 DIGEST ".git/index" delta OK
+80521-012625.565 Ending "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> : finished and removed
+80521-012625.565 LOCAL ".git/index" 6c2d8640 1222 file
+80521-012625.565 PROP ".git/index" lh=6c2d8640,rh=453a7d28,in=1d1b5c4a,id=74f55033,rm=a432579d
+80521-012625.565 Queueing "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index">
+80521-012625.565 REDUCE ".git/index" upload file
+80521-012625.565 DIGEST ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"
+80521-012625.565 DIGEST ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" 0 / 2693
+80521-012625.565 DIGEST ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" OK
+80521-012625.565 Ending "oi34potalbgt6eku02833n7h47" <digest creation for ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> : finished and removed
+80521-012625.565 LOCAL ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" 9805ff6c 2693 file
+80521-012625.565 PROP ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" lh=9805ff6c,in=cd28abb9
+80521-012625.565 Queueing "j9h0j07auiqbpvbutnq4j5n4q4" <upload of ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012625.566 REDUCE ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" upload file
+80521-012625.741 DIGEST 41a70523 add OK
+80521-012625.741 DIGEST 14827cef add OK
+80521-012625.741 DIGEST acb1f543 add OK
+80521-012625.742 DIGEST 39dbfd52 add OK
+80521-012625.742 DIGEST 164c5fa8 add OK
+80521-012625.742 DIGEST 6c2d8640 add OK
+80521-012625.742 DIGEST 9805ff6c add OK
+80521-012626.105 ".git/objects/ef" MKCOL OK
+80521-012626.105 Ending "4puvggnj75tkur7qcbcltndg26" <creation of remote directory ".git/objects/ef"> : finished and removed
+80521-012626.106 ".git/objects/02" MKCOL
+80521-012626.106 Queueing "ub7nugt6oc1664ug9030vilbu2" <pending ".git/objects/02">
+80521-012626.127 ".git/objects/71" MKCOL OK
+80521-012626.127 Ending "ah7670n67n6aki8k33mr3okmo4" <creation of remote directory ".git/objects/71"> : finished and removed
+80521-012626.128 ".git/objects/e6" MKCOL
+80521-012626.128 Queueing "1vjmrtcm3l873rq3upeh9tk0i7" <pending ".git/objects/e6">
+80521-012626.147 ".git/objects/55" MKCOL OK
+80521-012626.147 Ending "dbpoj7buf6d45vlvr952v03694" <creation of remote directory ".git/objects/55"> : finished and removed
+80521-012626.156 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" mime-type set to ""
+80521-012626.156 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" mime-type set to ""
+80521-012626.156 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" mime-type set to ""
+80521-012626.159 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"
+80521-012626.159 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"
+80521-012626.159 Queueing "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012626.160 Adding dependency "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> on "tv1u3ghlf0aehq8bpksbrmt272" <upload of ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012626.160 Queueing "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012626.160 Adding dependency "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> on "bubfcvvvtgjfiltku2iu593gm7" <upload of ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012626.161 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"
+80521-012626.161 Queueing "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012626.161 Adding dependency "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> on "j9h0j07auiqbpvbutnq4j5n4q4" <upload of ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012626.510 ".git/objects/e6" MKCOL OK
+80521-012626.510 Ending "c232bfnmmmksgr6pltf1kfa3o4" <creation of remote directory ".git/objects/e6"> : finished and removed
+80521-012626.548 ".git/objects/02" MKCOL OK
+80521-012626.548 Ending "ed7275t36etbu9ga0ad8ig0i42" <creation of remote directory ".git/objects/02"> : finished and removed
+80521-012626.561 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" mime-type set to ""
+80521-012626.561 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" mime-type set to ""
+80521-012626.562 PUT ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" mime-type set to ""
+80521-012626.564 PUT ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+80521-012626.564 Queueing "7te5rae0od2ut6if9kr2la3pn6" <pending ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+80521-012626.564 Adding dependency "7te5rae0od2ut6if9kr2la3pn6" <pending ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"> on "n9ieknhushpc9g75e9m4gfnu22" <upload of ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+80521-012626.564 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"
+80521-012626.565 Queueing "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012626.565 Adding dependency "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> on "rs0qlilcpql4tfpv5uddu247i4" <upload of ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012626.605 Ending "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> : removed
+80521-012626.605 Dequeueing "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012626.605 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" 0 / 287
+80521-012626.605 Queueing "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012626.605 Adding dependency "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> on "bubfcvvvtgjfiltku2iu593gm7" <upload of ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012626.605 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" receiving response
+80521-012626.605 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" 287 / 287
+80521-012626.622 Ending "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> : removed
+80521-012626.622 Dequeueing "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012626.622 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" 0 / 2693
+80521-012626.622 Queueing "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012626.622 Adding dependency "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> on "j9h0j07auiqbpvbutnq4j5n4q4" <upload of ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012626.622 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" receiving response
+80521-012626.622 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" 2693 / 2693
+80521-012626.630 Ending "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> : removed
+80521-012626.630 Dequeueing "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012626.631 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" 0 / 31966
+80521-012626.631 Queueing "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012626.631 Adding dependency "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> on "tv1u3ghlf0aehq8bpksbrmt272" <upload of ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012626.631 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" receiving response
+80521-012626.631 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" 31966 / 31966
+80521-012626.980 Ending "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> : removed
+80521-012626.980 Dequeueing "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012626.981 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" 0 / 11131
+80521-012626.981 Queueing "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012626.981 Adding dependency "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> on "rs0qlilcpql4tfpv5uddu247i4" <upload of ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012626.982 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" receiving response
+80521-012626.982 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" 11131 / 11131
+80521-012627.010 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-012627.010 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-012627.010 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/index.lock" / ".git/index"
+80521-012627.010 ".git" directory / update
+80521-012627.010 LOCAL ".git" directory
+80521-012627.010 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-012627.027 PUT ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" 201 Hardlink OK
+80521-012627.027 Ending "n9ieknhushpc9g75e9m4gfnu22" <upload of ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"> : finished and removed
+80521-012627.028 PUT ".git/index" status changed
+80521-012627.028 Ending "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index"> : removed
+80521-012627.028 Dequeueing "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index">
+80521-012627.029 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"
+80521-012627.029 Queueing "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012627.029 Adding dependency "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> on "4a0e1t9mu0plv8qk5nr3tf90d6" <upload of ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012627.487 Ending "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> : removed
+80521-012627.487 Dequeueing "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012627.487 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" 0 / 122367
+80521-012627.491 Queueing "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012627.491 Adding dependency "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> on "4a0e1t9mu0plv8qk5nr3tf90d6" <upload of ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012627.491 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" receiving response
+80521-012627.491 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" 122367 / 122367
+80521-012627.794 PUT ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" OK
+80521-012627.794 Ending "rs0qlilcpql4tfpv5uddu247i4" <upload of ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> : finished and removed
+80521-012628.011 PROP ".git/index" rh=453a7d28,in=ddf02300,id=74f55033,rm=1d1b5c4a
+80521-012628.011 Queueing "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index">
+80521-012628.011 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-012628.012 DIGEST 453a7d28 read OK
+80521-012628.012 DIGEST ".git/index" delta
+80521-012628.012 DIGEST ".git/index" 0 / 1222
+80521-012628.013 DIGEST ".git/index" delta OK
+80521-012628.013 Ending "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> : finished and removed
+80521-012628.013 LOCAL ".git/index" 6c2d8640 1222 file
+80521-012628.013 PROP ".git/index" lh=6c2d8640,rh=453a7d28,in=ddf02300,id=74f55033,rm=a432579d
+80521-012628.013 Queueing "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index">
+80521-012628.013 REDUCE ".git/index" upload file
+80521-012628.213 DIGEST 6c2d8640 add OK
+80521-012629.064 PUT ".git/index" mime-type set to ""
+80521-012629.064 PUT ".git/index" looking for a delta from 453a7d28 to 6c2d8640
+80521-012629.066 PUT ".git/index" gzip
+80521-012629.066 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-012629.066 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index">
+80521-012629.497 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-012629.497 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-012629.498 PUT ".git/index" 0 / 1222
+80521-012629.499 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-012629.499 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index">
+80521-012629.499 PUT ".git/index" receiving response
+80521-012629.499 PUT ".git/index" 1222 / 1222
+80521-012629.509 Index GET for version 1526840774024593
+80521-012629.509 STATE version 1526840774024593 written incrementally
+80521-012629.881 REMOTE ".git/index" 74f55033 453a7d28 1118 file
+80521-012629.881 REMOTE ".git/objects/02" 2d571ab9 collection
+80521-012629.881 PROP ".git/objects/02" in=bf0e2783,id=2d571ab9
+80521-012629.881 REDUCE ".git/objects/02" pending collection
+80521-012629.881 Ending "ub7nugt6oc1664ug9030vilbu2" <pending ".git/objects/02"> : removed
+80521-012629.881 Dequeueing "ub7nugt6oc1664ug9030vilbu2" <pending ".git/objects/02">
+80521-012629.882 REMOTE ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c" 24a1fa50 3e77b37f 22131 file
+80521-012629.882 PROP ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c" lh=3e77b37f,rh=3e77b37f,in=f14c0d9d,id=24a1fa50
+80521-012629.882 REDUCE ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c" pending file
+80521-012629.882 Ending "tgcdd8q7r51kldb1421q60jq50" <pending ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c"> : removed
+80521-012629.882 Dequeueing "tgcdd8q7r51kldb1421q60jq50" <pending ".git/objects/19/6889cdc16c31652405fbb36ba9d1aaf01d423c">
+80521-012629.882 REMOTE ".git/objects/37/46aa5899efdbacacbc51d35577254561aa3e48" 2b540606 922e0632 77 file
+80521-012629.882 PROP ".git/objects/37/46aa5899efdbacacbc51d35577254561aa3e48" lh=922e0632,rh=922e0632,in=3786b24a,id=2b540606
+80521-012629.882 REDUCE ".git/objects/37/46aa5899efdbacacbc51d35577254561aa3e48" pending file
+80521-012629.882 Ending "0oiqqo1iuk9fdbddj9feqn6m66" <pending ".git/objects/37/46aa5899efdbacacbc51d35577254561aa3e48"> : removed
+80521-012629.882 Dequeueing "0oiqqo1iuk9fdbddj9feqn6m66" <pending ".git/objects/37/46aa5899efdbacacbc51d35577254561aa3e48">
+80521-012629.883 REMOTE ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" 98257b8a acb1f543 11131 file
+80521-012629.883 PROP ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" lh=acb1f543,rh=acb1f543,in=7766a2a5,id=98257b8a
+80521-012629.883 REDUCE ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4" pending file
+80521-012629.883 Ending "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4"> : removed
+80521-012629.883 Dequeueing "pckcau1qcbahleip4utk7k7gg1" <pending ".git/objects/37/8c195e7f88fdfbcd89a290a5860e5d6fd18db4">
+80521-012629.883 REMOTE ".git/objects/3d/14b4497a90bd43ea01fc724db22f0c86a2f4ca" 083951d4 24e86444 119029 file
+80521-012629.883 PROP ".git/objects/3d/14b4497a90bd43ea01fc724db22f0c86a2f4ca" lh=24e86444,rh=24e86444,in=6886d63b,id=083951d4
+80521-012629.883 REDUCE ".git/objects/3d/14b4497a90bd43ea01fc724db22f0c86a2f4ca" pending file
+80521-012629.884 Ending "up7f8jk2mngnj5d3hrt306jf75" <pending ".git/objects/3d/14b4497a90bd43ea01fc724db22f0c86a2f4ca"> : removed
+80521-012629.884 Dequeueing "up7f8jk2mngnj5d3hrt306jf75" <pending ".git/objects/3d/14b4497a90bd43ea01fc724db22f0c86a2f4ca">
+80521-012629.884 REMOTE ".git/objects/55" 64fc5ba7 collection
+80521-012629.884 PROP ".git/objects/55" in=b6f8ab15,id=64fc5ba7
+80521-012629.884 REDUCE ".git/objects/55" pending collection
+80521-012629.884 Ending "ck9si7s4qgc5lopjdkibb0j204" <pending ".git/objects/55"> : removed
+80521-012629.884 Dequeueing "ck9si7s4qgc5lopjdkibb0j204" <pending ".git/objects/55">
+80521-012629.884 REMOTE ".git/objects/71" 863ff74b collection
+80521-012629.884 PROP ".git/objects/71" in=9f3b4c3c,id=863ff74b
+80521-012629.884 REDUCE ".git/objects/71" pending collection
+80521-012629.884 Ending "kq88nkhvcoaojc7e0s3dv6upj7" <pending ".git/objects/71"> : removed
+80521-012629.884 Dequeueing "kq88nkhvcoaojc7e0s3dv6upj7" <pending ".git/objects/71">
+80521-012629.885 REMOTE ".git/objects/74/1a84b75a7c1d41771ce6a70092252fd96917d6" 9cb768a7 ecd4b971 2078 file
+80521-012629.885 PROP ".git/objects/74/1a84b75a7c1d41771ce6a70092252fd96917d6" lh=ecd4b971,rh=ecd4b971,in=664475cc,id=9cb768a7
+80521-012629.885 REDUCE ".git/objects/74/1a84b75a7c1d41771ce6a70092252fd96917d6" pending file
+80521-012629.885 Ending "fvnoca9vmr8154e6op88mcgr42" <pending ".git/objects/74/1a84b75a7c1d41771ce6a70092252fd96917d6"> : removed
+80521-012629.885 Dequeueing "fvnoca9vmr8154e6op88mcgr42" <pending ".git/objects/74/1a84b75a7c1d41771ce6a70092252fd96917d6">
+80521-012629.885 REMOTE ".git/objects/98/43509b0d1d2acc15d42d4ae2c4409ab418f9d7" 8975a679 1d57b826 1731 file
+80521-012629.885 PROP ".git/objects/98/43509b0d1d2acc15d42d4ae2c4409ab418f9d7" lh=1d57b826,rh=1d57b826,in=adf47436,id=8975a679
+80521-012629.885 REDUCE ".git/objects/98/43509b0d1d2acc15d42d4ae2c4409ab418f9d7" pending file
+80521-012629.885 Ending "78hhm52glprltut9aeaig06197" <pending ".git/objects/98/43509b0d1d2acc15d42d4ae2c4409ab418f9d7"> : removed
+80521-012629.885 Dequeueing "78hhm52glprltut9aeaig06197" <pending ".git/objects/98/43509b0d1d2acc15d42d4ae2c4409ab418f9d7">
+80521-012629.886 REMOTE ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef" 88691361 0a0b3509 31 file
+80521-012629.886 PROP ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef" lh=0a0b3509,rh=0a0b3509,in=c058b2f2,id=88691361
+80521-012629.886 REDUCE ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef" pending file
+80521-012629.886 Ending "28qfmjg7fcno4l9b4fjmpmpgp3" <pending ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef"> : removed
+80521-012629.886 Dequeueing "28qfmjg7fcno4l9b4fjmpmpgp3" <pending ".git/objects/a2/cd9e12821a13105690a060a56689fbd09355ef">
+80521-012629.886 REMOTE ".git/objects/e6" e9f5f8d1 collection
+80521-012629.886 PROP ".git/objects/e6" in=eddd51ad,id=e9f5f8d1
+80521-012629.886 REDUCE ".git/objects/e6" pending collection
+80521-012629.886 Ending "1vjmrtcm3l873rq3upeh9tk0i7" <pending ".git/objects/e6"> : removed
+80521-012629.886 Dequeueing "1vjmrtcm3l873rq3upeh9tk0i7" <pending ".git/objects/e6">
+80521-012629.886 REMOTE ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" bb126c74 164c5fa8 15 file
+80521-012629.886 PROP ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" lh=164c5fa8,rh=164c5fa8,in=31549912,id=bb126c74
+80521-012629.887 REDUCE ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" pending file
+80521-012629.887 Ending "7te5rae0od2ut6if9kr2la3pn6" <pending ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391"> : removed
+80521-012629.887 Dequeueing "7te5rae0od2ut6if9kr2la3pn6" <pending ".git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391">
+80521-012629.887 REMOTE ".git/objects/ef" 254fa45a collection
+80521-012629.887 PROP ".git/objects/ef" in=8ae40775,id=254fa45a
+80521-012629.887 REDUCE ".git/objects/ef" pending collection
+80521-012629.887 Ending "a2dbar8fe0rrabj1a82irhu5s6" <pending ".git/objects/ef"> : removed
+80521-012629.887 Dequeueing "a2dbar8fe0rrabj1a82irhu5s6" <pending ".git/objects/ef">
+80521-012629.887 REMOTE ".git/objects/fc/65fa8276dc15c392351d296c5199a98c511c3d" 4b1b4bc4 8cb27caf 898 file
+80521-012629.887 Index version 1526840787757086 received
+80521-012629.887 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-012631.968 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-012631.984 PUT ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" OK
+80521-012631.984 Ending "bubfcvvvtgjfiltku2iu593gm7" <upload of ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> : finished and removed
+80521-012632.004 PUT ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" OK
+80521-012632.004 Ending "j9h0j07auiqbpvbutnq4j5n4q4" <upload of ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> : finished and removed
+80521-012632.095 PUT ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" OK
+80521-012632.095 Ending "tv1u3ghlf0aehq8bpksbrmt272" <upload of ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> : finished and removed
+80521-012641.985 Releasing request to https://webdav.yandex.ru:443
+80521-012642.005 Releasing request to https://webdav.yandex.ru:443
+80521-012642.095 Releasing request to https://webdav.yandex.ru:443
+80521-012644.881 Index GET for version 1526840787757086
+80521-012644.882 STATE version 1526840787757086 written incrementally
+80521-012646.000 REMOTE ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" cd75a03b 14827cef 31966 file
+80521-012646.001 PROP ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" lh=14827cef,rh=14827cef,in=2fc5524d,id=cd75a03b
+80521-012646.001 REDUCE ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e" pending file
+80521-012646.001 Ending "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e"> : removed
+80521-012646.001 Dequeueing "f8ptdm9dq41u2rieb83u38pms1" <pending ".git/objects/55/9990f86b4d642dd3b3b6983632e57066f8e57e">
+80521-012646.001 REMOTE ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" 1afd6b19 9805ff6c 2693 file
+80521-012646.001 PROP ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" lh=9805ff6c,rh=9805ff6c,in=cd28abb9,id=1afd6b19
+80521-012646.001 REDUCE ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb" pending file
+80521-012646.001 Ending "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb"> : removed
+80521-012646.001 Dequeueing "9p8dov5q4h9vr6524htadqk1e4" <pending ".git/objects/71/08d724f59b4049d7064560b394e114148da0bb">
+80521-012646.002 REMOTE ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" 7cdf2705 41a70523 287 file
+80521-012646.002 PROP ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" lh=41a70523,rh=41a70523,in=40d3aff9,id=7cdf2705
+80521-012646.002 REDUCE ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4" pending file
+80521-012646.002 Ending "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4"> : removed
+80521-012646.002 Dequeueing "bkfk2a1aus2fts13p2gf5mvha2" <pending ".git/objects/ef/93927b34c32e28b7c4b81e8fa30834ebccc8f4">
+80521-012646.002 Index version 1526840792059407 received
+80521-012646.002 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-012654.078 PUT ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" OK
+80521-012654.078 Ending "4a0e1t9mu0plv8qk5nr3tf90d6" <upload of ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> : finished and removed
+80521-012654.356 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-012655.224 User info GET
+80521-012655.514 User info GET OK (concurrency 5 / 1 / 1)
+80521-012655.514 User info PROPFIND
+80521-012656.052 User info PROPFIND OK
+80521-012658.616 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.616 ".git" directory / update
+80521-012658.616 LOCAL ".git" directory
+80521-012658.616 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-012658.616 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.616 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.624 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/config.lock" / ".git/config"
+80521-012658.624 ".git" directory / update
+80521-012658.624 LOCAL ".git" directory
+80521-012658.624 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.624 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.624 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/config.lock"
+80521-012658.624 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/config.lock" / ".git/config"
+80521-012658.624 ".git" directory / update
+80521-012658.624 LOCAL ".git" directory
+80521-012659.625 PROP ".git/config" rh=cfe7ba12,in=de0aa0e0,id=ed044d9e
+80521-012659.625 Queueing "ghor9rbs0a0bhfnpc93ofqhmj5" <digest creation for ".git/config">
+80521-012659.625 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-012659.625 DIGEST cfe7ba12 read OK
+80521-012659.625 DIGEST ".git/config" delta
+80521-012659.625 DIGEST ".git/config" 0 / 200
+80521-012659.625 DIGEST ".git/config" delta OK
+80521-012659.626 DIGEST ".git/config" delta from cfe7ba12 to cd89f5f0
+80521-012659.626 Ending "ghor9rbs0a0bhfnpc93ofqhmj5" <digest creation for ".git/config"> : finished and removed
+80521-012659.626 LOCAL ".git/config" cd89f5f0 200 file
+80521-012659.626 PROP ".git/config" lh=cd89f5f0,rh=cfe7ba12,in=de0aa0e0,id=ed044d9e
+80521-012659.626 Queueing "brs39e117mtrbdcvbcj8ko4674" <upload of ".git/config">
+80521-012659.626 REDUCE ".git/config" upload file
+80521-012659.826 DIGEST cd89f5f0 add OK
+80521-012659.864 PUT ".git/index" OK
+80521-012659.864 Ending "00a6ps29lp0hd1kj9v9dp7baa5" <upload of ".git/index"> : finished and removed
+80521-012700.676 PUT ".git/config" mime-type set to ""
+80521-012700.677 PUT ".git/config" looking for a delta from cfe7ba12 to cd89f5f0
+80521-012700.678 PUT ".git/config" delta
+80521-012700.678 Queueing "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config">
+80521-012700.678 Adding dependency "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config"> on "brs39e117mtrbdcvbcj8ko4674" <upload of ".git/config">
+80521-012701.001 Index GET for version 1526840792059407
+80521-012701.002 STATE version 1526840792059407 written incrementally
+80521-012701.073 Ending "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config"> : removed
+80521-012701.073 Dequeueing "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config">
+80521-012701.074 PUT ".git/config" 0 / 113
+80521-012701.074 Queueing "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config">
+80521-012701.074 Adding dependency "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config"> on "brs39e117mtrbdcvbcj8ko4674" <upload of ".git/config">
+80521-012701.074 PUT ".git/config" receiving response
+80521-012701.074 PUT ".git/config" 113 / 113
+80521-012702.043 Queueing "ja04u3h2cj985nfdu1req8qa30" <index>
+80521-012702.043 Adding dependency "ja04u3h2cj985nfdu1req8qa30" <index> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-012702.058 PUT ".git/config" OK
+80521-012702.058 Ending "brs39e117mtrbdcvbcj8ko4674" <upload of ".git/config"> : finished and removed
+80521-012702.058 Core INDEX
+80521-012702.105 REMOTE ".git/config" ed044d9e cd89f5f0 200 file
+80521-012702.105 PROP ".git/config" lh=cd89f5f0,rh=cd89f5f0,in=de0aa0e0,id=ed044d9e
+80521-012702.105 REDUCE ".git/config" pending file
+80521-012702.105 Ending "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config"> : removed
+80521-012702.105 Dequeueing "4oc68cn40trsciejh7hsns7lk3" <pending ".git/config">
+80521-012702.105 REMOTE ".git/index" 74f55033 6c2d8640 1222 file
+80521-012702.105 PROP ".git/index" lh=6c2d8640,rh=6c2d8640,in=ddf02300,id=74f55033,rm=a432579d
+80521-012702.105 REDUCE ".git/index" pending file
+80521-012702.105 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-012702.105 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-012702.105 REMOTE ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" d9dd4367 39dbfd52 122367 file
+80521-012702.105 PROP ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" lh=39dbfd52,rh=39dbfd52,in=dd5bb553,id=d9dd4367
+80521-012702.105 REDUCE ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1" pending file
+80521-012702.105 Ending "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1"> : removed
+80521-012702.105 Dequeueing "u15gh1mmjuq4ljglqvtv6sjtg1" <pending ".git/objects/02/27ebd31dfe3c741d6fab697ff3ebfb3828c0e1">
+80521-012702.105 Index version 1526840821669128 received
+80521-012702.105 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-012702.105 Index request delayed for 14 seconds
+80521-012712.058 Releasing request to https://webdav.yandex.ru:443
+80521-012717.105 Index GET for version 1526840821669128
+80521-012717.107 STATE version 1526840821669128 written incrementally
+80521-012718.240 REMOTE ".git/config" ed044d9e cd89f5f0 200 file
+80521-012718.240 Index version 1526840822457329 received
+80521-012718.240 Ending "ja04u3h2cj985nfdu1req8qa30" <index> : finished and removed
+80521-012718.240 "" directory / update (recursive)
+80521-012718.240 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-012719.246 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-012719.246 Core IDLE
+80521-012719.246 GARBAGE looking for obsolete files
+80521-012719.247 GARBAGE "tmp" tmp garbage to be removed
+80521-012756.052 User info GET
+80521-012757.094 User info GET OK (concurrency 5 / 1 / 1)
+80521-012757.095 User info PROPFIND
+80521-012757.671 User info PROPFIND OK
+80521-012857.673 User info GET
+80521-012858.927 User info GET OK (concurrency 5 / 1 / 1)
+80521-012858.927 User info PROPFIND
+80521-012859.453 User info PROPFIND OK
+80521-012959.454 User info GET
+80521-013000.692 User info GET OK (concurrency 5 / 1 / 1)
+80521-013000.692 User info PROPFIND
+80521-013001.270 User info PROPFIND OK
+80521-013037.444 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-013037.444 ".git" directory / update
+80521-013037.444 LOCAL ".git" directory
+80521-013037.444 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-013037.444 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/4b/tmp_obj_3VV69E"
+80521-013037.444 ".git/objects/4b" directory / update
+80521-013037.444 LOCAL ".git/objects/4b" directory
+80521-013037.444 Queueing "ihdkausqqmdougb8do2e7lo425" <local directory listing of ".git/objects/4b">
+80521-013037.444 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/objects/4b/tmp_obj_3VV69E"
+80521-013037.444 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"
+80521-013037.444 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/4b/tmp_obj_3VV69E"
+80521-013037.444 ".git/objects/4b" directory / update
+80521-013037.444 LOCAL ".git/objects/4b" directory
+80521-013037.444 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/6d"
+80521-013037.445 ".git/objects" directory / update
+80521-013037.445 LOCAL ".git/objects" directory
+80521-013037.445 Queueing "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects">
+80521-013037.445 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/7b"
+80521-013037.445 ".git/objects" directory / update
+80521-013037.445 LOCAL ".git/objects" directory
+80521-013037.445 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/de"
+80521-013037.445 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-013037.445 ".git/objects" directory / update
+80521-013037.445 LOCAL ".git/objects" directory
+80521-013037.445 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/index.lock" / ".git/index"
+80521-013037.445 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/COMMIT_EDITMSG"
+80521-013037.445 ".git" directory / update
+80521-013037.445 LOCAL ".git" directory
+80521-013037.445 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/a9"
+80521-013037.445 ".git/objects" directory / update
+80521-013037.445 LOCAL ".git/objects" directory
+80521-013037.445 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"
+80521-013037.445 MONITOR delete "/home/hernowo/Yandex.Disk" / ".git/objects/a9/tmp_obj_PSV13E"
+80521-013037.445 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/refs/heads/master.lock"
+80521-013037.446 ".git/objects/a9" directory / update
+80521-013037.446 LOCAL ".git/objects/a9" new directory
+80521-013037.446 Queueing "94aihjnueq48eugqd5ks5pj9q1" <local directory listing of ".git/objects/a9">
+80521-013037.446 Queueing "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9">
+80521-013037.446 Adding dependency "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9"> on "94aihjnueq48eugqd5ks5pj9q1" <local directory listing of ".git/objects/a9">
+80521-013037.446 Adding dependency "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9"> on "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects">
+80521-013037.446 Adding dependency "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9"> on "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-013037.446 REDUCE ".git/objects/a9" create collection
+80521-013037.446 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/refs/heads/master.lock"
+80521-013037.446 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/logs"
+80521-013037.446 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/refs/heads/master.lock" / ".git/refs/heads/master"
+80521-013037.446 Core BUSY
+80521-013037.447 ".git/refs/heads" directory / update
+80521-013037.447 LOCAL ".git/refs/heads" directory
+80521-013037.447 Queueing "641a92in182r5aaco3f8heqrk7" <local directory listing of ".git/refs/heads">
+80521-013037.447 ".git" directory / update
+80521-013037.447 LOCAL ".git" directory
+80521-013038.445 Queueing "0egkuuejn4dmoc5e5oemud7e27" <digest creation for ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013038.445 Ending "ihdkausqqmdougb8do2e7lo425" <local directory listing of ".git/objects/4b"> : finished and removed
+80521-013038.446 DIGEST ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"
+80521-013038.446 DIGEST ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" OK
+80521-013038.447 Ending "0egkuuejn4dmoc5e5oemud7e27" <digest creation for ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> : finished and removed
+80521-013038.447 LOCAL ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" afaa8e22 72 file
+80521-013038.447 PROP ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" lh=afaa8e22,in=06bf3f93
+80521-013038.447 Queueing "2o1ua53f2p929bbvf9copsmm81" <upload of ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013038.447 REDUCE ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" upload file
+80521-013038.448 LOCAL ".git/objects/6d" list new directory
+80521-013038.448 Queueing "tmomn1l71j4j19ufhb7q9o7td5" <local directory listing of ".git/objects/6d">
+80521-013038.448 Queueing "3m1lei0im95f3j3ifiemnsan50" <creation of remote directory ".git/objects/6d">
+80521-013038.448 Adding dependency "3m1lei0im95f3j3ifiemnsan50" <creation of remote directory ".git/objects/6d"> on "tmomn1l71j4j19ufhb7q9o7td5" <local directory listing of ".git/objects/6d">
+80521-013038.448 REDUCE ".git/objects/6d" create collection
+80521-013038.448 LOCAL ".git/objects/7b" list new directory
+80521-013038.448 Queueing "908hdqos4to80f8s3lpc9861g1" <local directory listing of ".git/objects/7b">
+80521-013038.448 Queueing "04op5o9vbub3o7iei55segflv7" <creation of remote directory ".git/objects/7b">
+80521-013038.448 Adding dependency "04op5o9vbub3o7iei55segflv7" <creation of remote directory ".git/objects/7b"> on "908hdqos4to80f8s3lpc9861g1" <local directory listing of ".git/objects/7b">
+80521-013038.448 REDUCE ".git/objects/7b" create collection
+80521-013038.449 LOCAL ".git/objects/de" list new directory
+80521-013038.449 Queueing "jck2ur5aeb6jvpve0uph13ps62" <local directory listing of ".git/objects/de">
+80521-013038.449 Queueing "bd5ur45ntvri7vkhj1qcu5vkg5" <creation of remote directory ".git/objects/de">
+80521-013038.449 Adding dependency "bd5ur45ntvri7vkhj1qcu5vkg5" <creation of remote directory ".git/objects/de"> on "jck2ur5aeb6jvpve0uph13ps62" <local directory listing of ".git/objects/de">
+80521-013038.449 REDUCE ".git/objects/de" create collection
+80521-013038.449 Ending "7fp86mtcljbj7ur1ah4oukdut2" <local directory listing of ".git/objects"> : finished and removed
+80521-013038.450 Queueing "8n2gq9rc6phau19pk9oafonqi4" <digest creation for ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013038.450 Ending "94aihjnueq48eugqd5ks5pj9q1" <local directory listing of ".git/objects/a9"> : finished and removed
+80521-013038.450 DIGEST ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"
+80521-013038.450 Queueing "fv2l5tuu8eigfeo98bmoej4fn2" <digest creation for ".git/refs/heads/master">
+80521-013038.451 Ending "641a92in182r5aaco3f8heqrk7" <local directory listing of ".git/refs/heads"> : finished and removed
+80521-013038.451 DIGEST ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" 0 / 130
+80521-013038.451 DIGEST ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" OK
+80521-013038.451 Ending "8n2gq9rc6phau19pk9oafonqi4" <digest creation for ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> : finished and removed
+80521-013038.451 LOCAL ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" e8b52791 130 file
+80521-013038.451 PROP ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" lh=e8b52791,in=ddf02300
+80521-013038.452 Queueing "50gum6s56sm8ev4016fis8sl35" <upload of ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013038.452 Adding dependency "50gum6s56sm8ev4016fis8sl35" <upload of ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> on "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9">
+80521-013038.452 REDUCE ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" upload file
+80521-013038.453 DIGEST ".git/refs/heads/master"
+80521-013038.454 PROP ".git/COMMIT_EDITMSG" rh=1b60270a,in=eaeed4ab,id=aae6d03f
+80521-013038.454 Queueing "bj2lm5t0q7l1pp4v5pjatvcri5" <digest creation for ".git/COMMIT_EDITMSG">
+80521-013038.454 PROP ".git/index" rh=6c2d8640,in=833dae1e,id=74f55033,rm=ddf02300
+80521-013038.454 Queueing "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index">
+80521-013038.454 LOCAL ".git/logs" list new directory
+80521-013038.454 Queueing "bfd6cr6jck1dde9kca2cmh9tf0" <local directory listing of ".git/logs">
+80521-013038.454 Queueing "tmmsaqk4v1kjad4d2uulld48g0" <creation of remote directory ".git/logs">
+80521-013038.456 Adding dependency "tmmsaqk4v1kjad4d2uulld48g0" <creation of remote directory ".git/logs"> on "bfd6cr6jck1dde9kca2cmh9tf0" <local directory listing of ".git/logs">
+80521-013038.456 REDUCE ".git/logs" create collection
+80521-013038.456 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-013038.456 DIGEST ".git/refs/heads/master" OK
+80521-013038.456 Ending "fv2l5tuu8eigfeo98bmoej4fn2" <digest creation for ".git/refs/heads/master"> : finished and removed
+80521-013038.456 LOCAL ".git/refs/heads/master" 899f4803 41 file
+80521-013038.456 PROP ".git/refs/heads/master" lh=899f4803,in=f3c6b02a
+80521-013038.456 Queueing "va60d8gcfln0e17m06eka5eeb3" <upload of ".git/refs/heads/master">
+80521-013038.456 REDUCE ".git/refs/heads/master" upload file
+80521-013038.457 ".git/objects/a9" MKCOL
+80521-013038.457 Queueing "44tu5ig69sbd5rq3uvvasket56" <digest creation for ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013038.458 Ending "tmomn1l71j4j19ufhb7q9o7td5" <local directory listing of ".git/objects/6d"> : finished and removed
+80521-013038.458 ".git/objects/6d" MKCOL
+80521-013038.458 Queueing "ho23fbh8sid9gq35kmq5bds2v0" <digest creation for ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013038.458 Ending "908hdqos4to80f8s3lpc9861g1" <local directory listing of ".git/objects/7b"> : finished and removed
+80521-013038.458 ".git/objects/7b" MKCOL
+80521-013038.458 Queueing "sg66dl20rm7vkmhrclak1hd993" <digest creation for ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013038.458 DIGEST 1b60270a read OK
+80521-013038.458 Ending "jck2ur5aeb6jvpve0uph13ps62" <local directory listing of ".git/objects/de"> : finished and removed
+80521-013038.459 DIGEST ".git/COMMIT_EDITMSG" delta
+80521-013038.459 Queueing "n2kv6b4sck81t42ll5586v6ut5" <digest creation for ".git/logs/HEAD">
+80521-013038.459 LOCAL ".git/logs/refs" list new directory
+80521-013038.459 Queueing "171geb298v6re6dabprbuojq81" <creation of remote directory ".git/logs/refs">
+80521-013038.459 Adding dependency "171geb298v6re6dabprbuojq81" <creation of remote directory ".git/logs/refs"> on "tmmsaqk4v1kjad4d2uulld48g0" <creation of remote directory ".git/logs">
+80521-013038.459 REDUCE ".git/logs/refs" create collection
+80521-013038.459 DIGEST ".git/COMMIT_EDITMSG" delta OK
+80521-013038.459 Ending "bj2lm5t0q7l1pp4v5pjatvcri5" <digest creation for ".git/COMMIT_EDITMSG"> : finished and removed
+80521-013038.459 LOCAL ".git/COMMIT_EDITMSG" 1b60270a 12 file
+80521-013038.459 PROP ".git/COMMIT_EDITMSG" lh=1b60270a,rh=1b60270a,in=eaeed4ab,id=aae6d03f
+80521-013038.459 LOCAL ".git/logs/refs/heads" list new directory
+80521-013038.459 Queueing "3ga7tnhkulcaa2kds5obe2tio3" <creation of remote directory ".git/logs/refs/heads">
+80521-013038.459 Adding dependency "3ga7tnhkulcaa2kds5obe2tio3" <creation of remote directory ".git/logs/refs/heads"> on "171geb298v6re6dabprbuojq81" <creation of remote directory ".git/logs/refs">
+80521-013038.459 REDUCE ".git/logs/refs/heads" create collection
+80521-013038.459 DIGEST ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"
+80521-013038.460 Queueing "mco26pn6kmdapmofsb3o3i2da7" <digest creation for ".git/logs/refs/heads/master">
+80521-013038.460 Ending "bfd6cr6jck1dde9kca2cmh9tf0" <local directory listing of ".git/logs"> : finished and removed
+80521-013038.460 DIGEST ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" OK
+80521-013038.460 Ending "ho23fbh8sid9gq35kmq5bds2v0" <digest creation for ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> : finished and removed
+80521-013038.460 LOCAL ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" 1f621f57 67 file
+80521-013038.460 PROP ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" lh=1f621f57,in=f75b11d3
+80521-013038.460 Queueing "qdh75qodr5nat0vacbp15qah67" <upload of ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013038.460 Adding dependency "qdh75qodr5nat0vacbp15qah67" <upload of ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> on "04op5o9vbub3o7iei55segflv7" <creation of remote directory ".git/objects/7b">
+80521-013038.460 REDUCE ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" upload file
+80521-013038.460 DIGEST ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"
+80521-013038.460 DIGEST ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" OK
+80521-013038.460 Ending "sg66dl20rm7vkmhrclak1hd993" <digest creation for ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> : finished and removed
+80521-013038.460 LOCAL ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" 5ffde8e0 79 file
+80521-013038.460 PROP ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" lh=5ffde8e0,in=d747e65f
+80521-013038.460 Queueing "2d5j0l7q1mohau8toa3r6n5sp0" <upload of ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013038.460 Adding dependency "2d5j0l7q1mohau8toa3r6n5sp0" <upload of ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> on "bd5ur45ntvri7vkhj1qcu5vkg5" <creation of remote directory ".git/objects/de">
+80521-013038.460 REDUCE ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" upload file
+80521-013038.461 DIGEST ".git/logs/HEAD"
+80521-013038.461 DIGEST ".git/logs/HEAD" 0 / 163
+80521-013038.461 DIGEST ".git/logs/HEAD" OK
+80521-013038.461 Ending "n2kv6b4sck81t42ll5586v6ut5" <digest creation for ".git/logs/HEAD"> : finished and removed
+80521-013038.461 LOCAL ".git/logs/HEAD" c2c44b2c 163 file
+80521-013038.461 PROP ".git/logs/HEAD" lh=c2c44b2c,in=25b3336d
+80521-013038.461 Queueing "lntjc31q731291pudeugssj351" <upload of ".git/logs/HEAD">
+80521-013038.461 REDUCE ".git/logs/HEAD" upload file
+80521-013038.461 DIGEST ".git/logs/refs/heads/master"
+80521-013038.461 DIGEST ".git/logs/refs/heads/master" 0 / 163
+80521-013038.461 DIGEST ".git/logs/refs/heads/master" OK
+80521-013038.461 Ending "mco26pn6kmdapmofsb3o3i2da7" <digest creation for ".git/logs/refs/heads/master"> : finished and removed
+80521-013038.461 LOCAL ".git/logs/refs/heads/master" c2c44b2c 163 file
+80521-013038.461 PROP ".git/logs/refs/heads/master" lh=c2c44b2c,in=675be6a5
+80521-013038.461 Queueing "9chp951urrspk68tuv3r1dfhb1" <upload of ".git/logs/refs/heads/master">
+80521-013038.461 Adding dependency "9chp951urrspk68tuv3r1dfhb1" <upload of ".git/logs/refs/heads/master"> on "3ga7tnhkulcaa2kds5obe2tio3" <creation of remote directory ".git/logs/refs/heads">
+80521-013038.461 REDUCE ".git/logs/refs/heads/master" upload file
+80521-013038.461 DIGEST ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"
+80521-013038.461 DIGEST ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" 0 / 422
+80521-013038.461 DIGEST ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" OK
+80521-013038.462 Ending "44tu5ig69sbd5rq3uvvasket56" <digest creation for ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> : finished and removed
+80521-013038.462 LOCAL ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" 8a1dfa3d 422 file
+80521-013038.462 PROP ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" lh=8a1dfa3d,in=438f7bbd
+80521-013038.462 Queueing "1lbsa40nrrpr12ennhh4umnsj0" <upload of ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013038.462 Adding dependency "1lbsa40nrrpr12ennhh4umnsj0" <upload of ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> on "3m1lei0im95f3j3ifiemnsan50" <creation of remote directory ".git/objects/6d">
+80521-013038.462 REDUCE ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" upload file
+80521-013038.462 DIGEST 6c2d8640 read OK
+80521-013038.462 DIGEST ".git/index" delta
+80521-013038.462 DIGEST ".git/index" 0 / 1334
+80521-013038.462 DIGEST ".git/index" delta OK
+80521-013038.462 Ending "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> : finished and removed
+80521-013038.462 LOCAL ".git/index" 208083ad 1334 file
+80521-013038.462 PROP ".git/index" lh=208083ad,rh=6c2d8640,in=833dae1e,id=74f55033,rm=ddf02300
+80521-013038.462 Queueing "kldcur5lulih4rd6kh8v4rn212" <upload of ".git/index">
+80521-013038.462 REDUCE ".git/index" upload file
+80521-013038.648 DIGEST afaa8e22 add OK
+80521-013038.648 DIGEST e8b52791 add OK
+80521-013038.648 DIGEST 899f4803 add OK
+80521-013038.648 DIGEST 1b60270a add OK
+80521-013038.648 DIGEST 1f621f57 add OK
+80521-013038.648 DIGEST 5ffde8e0 add OK
+80521-013038.648 DIGEST c2c44b2c add OK
+80521-013038.648 DIGEST c2c44b2c add OK
+80521-013038.648 DIGEST 8a1dfa3d add OK
+80521-013038.648 DIGEST 208083ad add OK
+80521-013039.206 Queueing "96hd3t08ldbe42vjaeiqppe513" <pending ".git/objects/a9">
+80521-013039.209 Queueing "2q19k7bhvtrgkvg63hg0acojp5" <pending ".git/objects/6d">
+80521-013039.222 Queueing "j02ags5alg3r8ps4pn4rkb7d00" <pending ".git/objects/7b">
+80521-013039.498 PUT ".git/index" mime-type set to ""
+80521-013039.498 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" mime-type set to ""
+80521-013039.498 PUT ".git/refs/heads/master" mime-type set to ""
+80521-013039.499 PUT ".git/index" looking for a delta from 6c2d8640 to 208083ad
+80521-013039.502 PUT ".git/index" gzip
+80521-013039.503 PUT ".git/refs/heads/master"
+80521-013039.503 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"
+80521-013039.686 ".git/objects/7b" MKCOL OK
+80521-013039.686 Ending "04op5o9vbub3o7iei55segflv7" <creation of remote directory ".git/objects/7b"> : finished and removed
+80521-013039.687 ".git/objects/de" MKCOL
+80521-013039.697 ".git/objects/6d" MKCOL OK
+80521-013039.697 Ending "3m1lei0im95f3j3ifiemnsan50" <creation of remote directory ".git/objects/6d"> : finished and removed
+80521-013039.697 ".git/logs" MKCOL
+80521-013039.697 Queueing "jhtk2qj5hd6dqj83b18dihlb86" <pending ".git/logs">
+80521-013039.734 ".git/objects/a9" MKCOL OK
+80521-013039.734 Ending "t7tarfvio0aeqbbn76j6flbg92" <creation of remote directory ".git/objects/a9"> : finished and removed
+80521-013039.738 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" mime-type set to ""
+80521-013039.738 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" mime-type set to ""
+80521-013039.738 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" mime-type set to ""
+80521-013039.739 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"
+80521-013039.740 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"
+80521-013039.740 Queueing "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013039.740 Adding dependency "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> on "qdh75qodr5nat0vacbp15qah67" <upload of ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013039.772 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013040.128 ".git/logs" MKCOL OK
+80521-013040.128 Ending "tmmsaqk4v1kjad4d2uulld48g0" <creation of remote directory ".git/logs"> : finished and removed
+80521-013040.128 ".git/logs/refs" MKCOL
+80521-013040.129 Queueing "79s3piq7ln40m7pfgaipp2lui2" <pending ".git/logs/refs">
+80521-013040.227 Queueing "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master">
+80521-013040.227 Adding dependency "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master"> on "va60d8gcfln0e17m06eka5eeb3" <upload of ".git/refs/heads/master">
+80521-013040.230 Ending "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> : removed
+80521-013040.230 Dequeueing "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013040.230 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" 0 / 67
+80521-013040.231 Queueing "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013040.231 Adding dependency "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> on "qdh75qodr5nat0vacbp15qah67" <upload of ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013040.231 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" receiving response
+80521-013040.231 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" 67 / 67
+80521-013040.251 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013040.251 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "kldcur5lulih4rd6kh8v4rn212" <upload of ".git/index">
+80521-013040.300 Queueing "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013040.300 Adding dependency "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> on "2o1ua53f2p929bbvf9copsmm81" <upload of ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013040.434 Queueing "85960vsg71e5gbetiiqk6qcik6" <pending ".git/objects/de">
+80521-013040.496 Queueing "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013040.496 Adding dependency "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> on "50gum6s56sm8ev4016fis8sl35" <upload of ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013040.598 ".git/logs/refs" MKCOL OK
+80521-013040.598 Ending "171geb298v6re6dabprbuojq81" <creation of remote directory ".git/logs/refs"> : finished and removed
+80521-013040.599 ".git/logs/refs/heads" MKCOL
+80521-013040.600 Queueing "cn30pae8vkjt0c0oil7vn3i737" <pending ".git/logs/refs/heads">
+80521-013040.652 Ending "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> : removed
+80521-013040.653 Dequeueing "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013040.653 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" 0 / 72
+80521-013040.653 Queueing "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013040.654 Adding dependency "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> on "2o1ua53f2p929bbvf9copsmm81" <upload of ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013040.654 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" receiving response
+80521-013040.654 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" 72 / 72
+80521-013040.685 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-013040.685 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013040.685 PUT ".git/index" 0 / 1334
+80521-013040.686 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013040.686 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "kldcur5lulih4rd6kh8v4rn212" <upload of ".git/index">
+80521-013040.686 PUT ".git/index" receiving response
+80521-013040.686 PUT ".git/index" 1334 / 1334
+80521-013040.926 Ending "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> : removed
+80521-013040.926 Dequeueing "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013040.926 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" 0 / 130
+80521-013040.927 Queueing "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013040.927 Adding dependency "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> on "50gum6s56sm8ev4016fis8sl35" <upload of ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013040.927 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" receiving response
+80521-013040.927 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" 130 / 130
+80521-013040.938 ".git/objects/de" MKCOL OK
+80521-013040.938 Ending "bd5ur45ntvri7vkhj1qcu5vkg5" <creation of remote directory ".git/objects/de"> : finished and removed
+80521-013041.045 ".git/logs/refs/heads" MKCOL OK
+80521-013041.045 Ending "3ga7tnhkulcaa2kds5obe2tio3" <creation of remote directory ".git/logs/refs/heads"> : finished and removed
+80521-013041.677 Ending "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master"> : removed
+80521-013041.677 Dequeueing "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master">
+80521-013041.678 PUT ".git/refs/heads/master" 0 / 41
+80521-013041.678 Queueing "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master">
+80521-013041.678 Adding dependency "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master"> on "va60d8gcfln0e17m06eka5eeb3" <upload of ".git/refs/heads/master">
+80521-013041.678 PUT ".git/refs/heads/master" receiving response
+80521-013041.678 PUT ".git/refs/heads/master" 41 / 41
+80521-013041.747 PUT ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" OK
+80521-013041.747 Ending "50gum6s56sm8ev4016fis8sl35" <upload of ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> : finished and removed
+80521-013041.749 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"
+80521-013041.750 Queueing "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013041.750 Adding dependency "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> on "1lbsa40nrrpr12ennhh4umnsj0" <upload of ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013041.797 PUT ".git/logs/HEAD" mime-type set to ""
+80521-013041.797 PUT ".git/logs/refs/heads/master" mime-type set to ""
+80521-013041.797 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" mime-type set to ""
+80521-013042.142 PUT ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" OK
+80521-013042.142 Ending "2o1ua53f2p929bbvf9copsmm81" <upload of ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> : finished and removed
+80521-013042.144 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"
+80521-013042.145 Queueing "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013042.145 Adding dependency "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> on "2d5j0l7q1mohau8toa3r6n5sp0" <upload of ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013042.156 Ending "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> : removed
+80521-013042.156 Dequeueing "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013042.156 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" 0 / 422
+80521-013042.156 Queueing "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013042.156 Adding dependency "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> on "1lbsa40nrrpr12ennhh4umnsj0" <upload of ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013042.156 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" receiving response
+80521-013042.157 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" 422 / 422
+80521-013042.568 Ending "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> : removed
+80521-013042.568 Dequeueing "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013042.569 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" 0 / 79
+80521-013042.569 Queueing "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013042.569 Adding dependency "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> on "2d5j0l7q1mohau8toa3r6n5sp0" <upload of ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013042.569 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" receiving response
+80521-013042.569 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" 79 / 79
+80521-013043.272 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-013043.272 ".git" directory / update
+80521-013043.272 LOCAL ".git" directory
+80521-013043.272 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-013043.272 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-013043.272 ".git" directory / update
+80521-013043.272 LOCAL ".git" directory
+80521-013043.273 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/index.lock" / ".git/index"
+80521-013043.273 ".git" directory / update
+80521-013043.273 LOCAL ".git" directory
+80521-013043.586 PUT ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" OK
+80521-013043.586 Ending "2d5j0l7q1mohau8toa3r6n5sp0" <upload of ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> : finished and removed
+80521-013043.588 PUT ".git/logs/HEAD"
+80521-013043.588 Queueing "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD">
+80521-013043.588 Adding dependency "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD"> on "lntjc31q731291pudeugssj351" <upload of ".git/logs/HEAD">
+80521-013043.629 PUT ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" OK
+80521-013043.629 Ending "1lbsa40nrrpr12ennhh4umnsj0" <upload of ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> : finished and removed
+80521-013043.631 PUT ".git/logs/refs/heads/master"
+80521-013043.631 Queueing "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master">
+80521-013043.631 Adding dependency "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master"> on "9chp951urrspk68tuv3r1dfhb1" <upload of ".git/logs/refs/heads/master">
+80521-013044.009 Ending "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master"> : removed
+80521-013044.009 Dequeueing "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master">
+80521-013044.010 PUT ".git/logs/refs/heads/master" 0 / 163
+80521-013044.010 Queueing "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master">
+80521-013044.010 Adding dependency "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master"> on "9chp951urrspk68tuv3r1dfhb1" <upload of ".git/logs/refs/heads/master">
+80521-013044.010 PUT ".git/logs/refs/heads/master" receiving response
+80521-013044.010 PUT ".git/logs/refs/heads/master" 163 / 163
+80521-013044.128 Ending "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD"> : removed
+80521-013044.128 Dequeueing "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD">
+80521-013044.128 PUT ".git/logs/HEAD" 0 / 163
+80521-013044.128 Queueing "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD">
+80521-013044.129 Adding dependency "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD"> on "lntjc31q731291pudeugssj351" <upload of ".git/logs/HEAD">
+80521-013044.129 PUT ".git/logs/HEAD" receiving response
+80521-013044.129 PUT ".git/logs/HEAD" 163 / 163
+80521-013044.235 PUT ".git/index" OK
+80521-013044.235 Ending "kldcur5lulih4rd6kh8v4rn212" <upload of ".git/index"> : finished and removed
+80521-013044.274 PROP ".git/index" rh=6c2d8640,in=09b85657,id=74f55033,rm=833dae1e
+80521-013044.274 Queueing "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index">
+80521-013044.274 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-013044.275 DIGEST 6c2d8640 read OK
+80521-013044.275 DIGEST ".git/index" delta
+80521-013044.275 DIGEST ".git/index" 0 / 1334
+80521-013044.276 DIGEST ".git/index" delta OK
+80521-013044.276 Ending "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> : finished and removed
+80521-013044.276 LOCAL ".git/index" 37b3a4fc 1334 file
+80521-013044.276 PROP ".git/index" lh=37b3a4fc,rh=6c2d8640,in=09b85657,id=74f55033,rm=ddf02300
+80521-013044.276 REDUCE ".git/index" upload file
+80521-013044.466 PUT ".git/refs/heads/master" OK
+80521-013044.466 Ending "va60d8gcfln0e17m06eka5eeb3" <upload of ".git/refs/heads/master"> : finished and removed
+80521-013044.476 DIGEST 37b3a4fc add OK
+80521-013044.772 Index GET for version 1526840822457329
+80521-013045.123 REMOTE ".git/index" 74f55033 208083ad 1334 file
+80521-013045.123 PROP ".git/index" lh=37b3a4fc,rh=208083ad,in=09b85657,id=74f55033,rm=ddf02300
+80521-013045.123 REDUCE ".git/index" pending file
+80521-013045.123 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-013045.123 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013045.123 Queueing "uf215sqoh227437qm821sdfjf2" <upload of ".git/index">
+80521-013045.123 REDUCE ".git/index" remote redundant
+80521-013045.123 REDUCE ".git/index" upload file
+80521-013045.123 REMOTE ".git/logs" da93e481 collection
+80521-013045.123 PROP ".git/logs" in=9f42312c,id=da93e481
+80521-013045.123 REDUCE ".git/logs" pending collection
+80521-013045.123 Ending "jhtk2qj5hd6dqj83b18dihlb86" <pending ".git/logs"> : removed
+80521-013045.123 Dequeueing "jhtk2qj5hd6dqj83b18dihlb86" <pending ".git/logs">
+80521-013045.123 REMOTE ".git/logs/refs" 249da412 collection
+80521-013045.123 PROP ".git/logs/refs" in=1283bc78,id=249da412
+80521-013045.123 REDUCE ".git/logs/refs" pending collection
+80521-013045.123 Ending "79s3piq7ln40m7pfgaipp2lui2" <pending ".git/logs/refs"> : removed
+80521-013045.123 Dequeueing "79s3piq7ln40m7pfgaipp2lui2" <pending ".git/logs/refs">
+80521-013045.123 REMOTE ".git/logs/refs/heads" b66b9dc6 collection
+80521-013045.123 PROP ".git/logs/refs/heads" in=f823eddf,id=b66b9dc6
+80521-013045.123 REDUCE ".git/logs/refs/heads" pending collection
+80521-013045.123 Ending "cn30pae8vkjt0c0oil7vn3i737" <pending ".git/logs/refs/heads"> : removed
+80521-013045.123 Dequeueing "cn30pae8vkjt0c0oil7vn3i737" <pending ".git/logs/refs/heads">
+80521-013045.123 REMOTE ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" 88fd2759 afaa8e22 72 file
+80521-013045.123 PROP ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" lh=afaa8e22,rh=afaa8e22,in=06bf3f93,id=88fd2759
+80521-013045.123 REDUCE ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d" pending file
+80521-013045.123 Ending "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d"> : removed
+80521-013045.123 Dequeueing "h8ufdpag7g4a2thmg9bu7g7bp3" <pending ".git/objects/4b/c4fcec5c1d2bdfa473846fc5c0af3ba5936b7d">
+80521-013045.123 REMOTE ".git/objects/6d" d5815028 collection
+80521-013045.123 PROP ".git/objects/6d" in=7682f064,id=d5815028
+80521-013045.124 REDUCE ".git/objects/6d" pending collection
+80521-013045.124 Ending "2q19k7bhvtrgkvg63hg0acojp5" <pending ".git/objects/6d"> : removed
+80521-013045.124 Dequeueing "2q19k7bhvtrgkvg63hg0acojp5" <pending ".git/objects/6d">
+80521-013045.124 REMOTE ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" 2f3ad041 8a1dfa3d 422 file
+80521-013045.124 PROP ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" lh=8a1dfa3d,rh=8a1dfa3d,in=438f7bbd,id=2f3ad041
+80521-013045.124 REDUCE ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1" pending file
+80521-013045.124 Ending "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1"> : removed
+80521-013045.124 Dequeueing "i179ama2hoa2qgtrjgl00sn6b4" <pending ".git/objects/6d/cac81f0be413fd3b7770401f22b27056ccacd1">
+80521-013045.124 REMOTE ".git/objects/7b" 37b33ec9 collection
+80521-013045.124 PROP ".git/objects/7b" in=8c9d873e,id=37b33ec9
+80521-013045.124 REDUCE ".git/objects/7b" pending collection
+80521-013045.124 Ending "j02ags5alg3r8ps4pn4rkb7d00" <pending ".git/objects/7b"> : removed
+80521-013045.124 Dequeueing "j02ags5alg3r8ps4pn4rkb7d00" <pending ".git/objects/7b">
+80521-013045.124 REMOTE ".git/objects/a9" d2fad7b6 collection
+80521-013045.124 PROP ".git/objects/a9" in=d03f8f38,id=d2fad7b6
+80521-013045.124 REDUCE ".git/objects/a9" pending collection
+80521-013045.124 Ending "96hd3t08ldbe42vjaeiqppe513" <pending ".git/objects/a9"> : removed
+80521-013045.124 Dequeueing "96hd3t08ldbe42vjaeiqppe513" <pending ".git/objects/a9">
+80521-013045.124 REMOTE ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" e0e92356 e8b52791 130 file
+80521-013045.124 PROP ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" lh=e8b52791,rh=e8b52791,in=ddf02300,id=e0e92356
+80521-013045.124 REDUCE ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6" pending file
+80521-013045.124 Ending "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6"> : removed
+80521-013045.124 Dequeueing "pgaeqj727ln9655r4vhj9ljka2" <pending ".git/objects/a9/9195dbf787e075f18935a962476f29eaa4bbf6">
+80521-013045.124 REMOTE ".git/objects/de" be9bb149 collection
+80521-013045.124 PROP ".git/objects/de" in=036d41b2,id=be9bb149
+80521-013045.124 REDUCE ".git/objects/de" pending collection
+80521-013045.124 Ending "85960vsg71e5gbetiiqk6qcik6" <pending ".git/objects/de"> : removed
+80521-013045.124 Dequeueing "85960vsg71e5gbetiiqk6qcik6" <pending ".git/objects/de">
+80521-013045.124 REMOTE ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" c37df2f1 5ffde8e0 79 file
+80521-013045.124 PROP ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" lh=5ffde8e0,rh=5ffde8e0,in=d747e65f,id=c37df2f1
+80521-013045.124 REDUCE ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b" pending file
+80521-013045.124 Ending "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b"> : removed
+80521-013045.124 Dequeueing "i57pvqs0rbsb8er532bkr62kh7" <pending ".git/objects/de/8da4d1da305128964754a90e13ff00edeb894b">
+80521-013045.125 REMOTE ".git/refs/heads/master" 61fe5699 899f4803 41 file
+80521-013045.125 PROP ".git/refs/heads/master" lh=899f4803,rh=899f4803,in=f3c6b02a,id=61fe5699
+80521-013045.125 REDUCE ".git/refs/heads/master" pending file
+80521-013045.125 Ending "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master"> : removed
+80521-013045.125 Dequeueing "j7a79dkf84mdpn1s45u5pavnf3" <pending ".git/refs/heads/master">
+80521-013045.125 Index version 1526841044382208 received
+80521-013045.125 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-013046.174 PUT ".git/index" mime-type set to ""
+80521-013046.174 PUT ".git/index" looking for a delta from 208083ad to 37b3a4fc
+80521-013046.176 DIGEST 37b3a4fc read OK
+80521-013046.176 PUT ".git/index" gzip
+80521-013046.176 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013046.176 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "uf215sqoh227437qm821sdfjf2" <upload of ".git/index">
+80521-013046.652 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-013046.652 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013046.652 PUT ".git/index" 0 / 1334
+80521-013046.653 Queueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013046.653 Adding dependency "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> on "uf215sqoh227437qm821sdfjf2" <upload of ".git/index">
+80521-013046.653 PUT ".git/index" receiving response
+80521-013046.653 PUT ".git/index" 1334 / 1334
+80521-013047.398 PUT ".git/logs/refs/heads/master" OK
+80521-013047.398 Ending "9chp951urrspk68tuv3r1dfhb1" <upload of ".git/logs/refs/heads/master"> : finished and removed
+80521-013047.415 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013052.444 STATE version 1526841044382208 written incrementally
+80521-013053.485 PUT ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" OK
+80521-013053.485 Ending "qdh75qodr5nat0vacbp15qah67" <upload of ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> : finished and removed
+80521-013054.236 Releasing request to https://webdav.yandex.ru:443
+80521-013054.467 Releasing request to https://webdav.yandex.ru:443
+80521-013057.398 Releasing request to https://webdav.yandex.ru:443
+80521-013100.123 Index GET for version 1526841044382208
+80521-013100.127 PUT ".git/index" OK
+80521-013100.127 Ending "uf215sqoh227437qm821sdfjf2" <upload of ".git/index"> : finished and removed
+80521-013100.127 PROP ".git/index" lh=37b3a4fc,rh=208083ad,in=09b85657,id=74f55033
+80521-013100.475 REMOTE ".git/index" 74f55033 37b3a4fc 1334 file
+80521-013100.475 PROP ".git/index" lh=37b3a4fc,rh=37b3a4fc,in=09b85657,id=74f55033
+80521-013100.475 REDUCE ".git/index" pending file
+80521-013100.475 Ending "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index"> : removed
+80521-013100.475 Dequeueing "iqkjb6tke632ngci0s8a8e60a6" <pending ".git/index">
+80521-013100.475 REMOTE ".git/logs/refs/heads/master" d9121adc c2c44b2c 163 file
+80521-013100.475 PROP ".git/logs/refs/heads/master" lh=c2c44b2c,rh=c2c44b2c,in=675be6a5,id=d9121adc
+80521-013100.476 REDUCE ".git/logs/refs/heads/master" pending file
+80521-013100.476 Ending "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master"> : removed
+80521-013100.476 Dequeueing "dt4u0utr9577gfe8c65pgs62j3" <pending ".git/logs/refs/heads/master">
+80521-013100.476 REMOTE ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" 941ca777 1f621f57 67 file
+80521-013100.476 PROP ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" lh=1f621f57,rh=1f621f57,in=f75b11d3,id=941ca777
+80521-013100.476 REDUCE ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1" pending file
+80521-013100.476 Ending "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1"> : removed
+80521-013100.476 Dequeueing "mvktfflktcc1pe76vf68u6oih1" <pending ".git/objects/7b/82d36476baf8c6896650a61fd4e530db307cc1">
+80521-013100.476 Index version 1526841059732457 received
+80521-013100.476 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-013101.271 User info GET
+80521-013101.569 User info GET OK (concurrency 5 / 1 / 1)
+80521-013101.570 User info PROPFIND
+80521-013102.124 User info PROPFIND OK
+80521-013103.437 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013110.946 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/refs/remotes"
+80521-013110.946 ".git/refs" directory / update
+80521-013110.946 LOCAL ".git/refs" directory
+80521-013110.946 Queueing "lqas89sdaio9rcss7rleih15l7" <local directory listing of ".git/refs">
+80521-013110.947 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/refs/remotes/origin/master.lock"
+80521-013110.947 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/logs/refs/remotes"
+80521-013110.947 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/refs/remotes/origin/master.lock" / ".git/refs/remotes/origin/master"
+80521-013110.947 ".git/refs/remotes/origin" directory / update
+80521-013110.947 LOCAL ".git/refs/remotes/origin" parent not found
+80521-013110.947 Queueing "npc96tppegd37qqcgmtf6tmob5" <local directory listing of ".git/refs/remotes/origin">
+80521-013110.948 ".git/logs/refs" directory / update
+80521-013110.948 LOCAL ".git/logs/refs" directory
+80521-013110.948 Queueing "2tshrggc277fgu3ee7bmeegee4" <local directory listing of ".git/logs/refs">
+80521-013111.946 LOCAL ".git/refs/remotes" list new directory
+80521-013111.946 Queueing "f73t148lj2o9cnfsc3aten1l16" <local directory listing of ".git/refs/remotes">
+80521-013111.946 Queueing "u2h383rqmdqu07fc6ttbqvpus2" <creation of remote directory ".git/refs/remotes">
+80521-013111.946 Adding dependency "u2h383rqmdqu07fc6ttbqvpus2" <creation of remote directory ".git/refs/remotes"> on "f73t148lj2o9cnfsc3aten1l16" <local directory listing of ".git/refs/remotes">
+80521-013111.946 Adding dependency "u2h383rqmdqu07fc6ttbqvpus2" <creation of remote directory ".git/refs/remotes"> on "lqas89sdaio9rcss7rleih15l7" <local directory listing of ".git/refs">
+80521-013111.946 REDUCE ".git/refs/remotes" create collection
+80521-013111.947 Ending "lqas89sdaio9rcss7rleih15l7" <local directory listing of ".git/refs"> : finished and removed
+80521-013111.947 LOCAL ".git/refs/remotes/origin" list new directory
+80521-013111.947 Queueing "3fk141nfjvbkr4u55emrchetn0" <creation of remote directory ".git/refs/remotes/origin">
+80521-013111.947 Adding dependency "3fk141nfjvbkr4u55emrchetn0" <creation of remote directory ".git/refs/remotes/origin"> on "npc96tppegd37qqcgmtf6tmob5" <local directory listing of ".git/refs/remotes/origin">
+80521-013111.947 Adding dependency "3fk141nfjvbkr4u55emrchetn0" <creation of remote directory ".git/refs/remotes/origin"> on "u2h383rqmdqu07fc6ttbqvpus2" <creation of remote directory ".git/refs/remotes">
+80521-013111.947 REDUCE ".git/refs/remotes/origin" create collection
+80521-013111.947 Ending "npc96tppegd37qqcgmtf6tmob5" <local directory listing of ".git/refs/remotes/origin"> : removed
+80521-013111.947 Dequeueing "npc96tppegd37qqcgmtf6tmob5" <local directory listing of ".git/refs/remotes/origin">
+80521-013111.948 Queueing "feliulrl1nkvm8h2irt0s390i7" <digest creation for ".git/refs/remotes/origin/master">
+80521-013111.948 Ending "f73t148lj2o9cnfsc3aten1l16" <local directory listing of ".git/refs/remotes"> : finished and removed
+80521-013111.948 DIGEST ".git/refs/remotes/origin/master"
+80521-013111.948 ".git/refs/remotes" MKCOL
+80521-013111.948 DIGEST ".git/refs/remotes/origin/master" OK
+80521-013111.948 Ending "feliulrl1nkvm8h2irt0s390i7" <digest creation for ".git/refs/remotes/origin/master"> : finished and removed
+80521-013111.949 LOCAL ".git/refs/remotes/origin/master" 899f4803 41 file
+80521-013111.949 PROP ".git/refs/remotes/origin/master" lh=899f4803,in=5999cd9e
+80521-013111.949 Queueing "c4ogqkl2ogvossp9inauga9pt1" <upload of ".git/refs/remotes/origin/master">
+80521-013111.949 Adding dependency "c4ogqkl2ogvossp9inauga9pt1" <upload of ".git/refs/remotes/origin/master"> on "3fk141nfjvbkr4u55emrchetn0" <creation of remote directory ".git/refs/remotes/origin">
+80521-013111.949 REDUCE ".git/refs/remotes/origin/master" upload file
+80521-013111.949 LOCAL ".git/logs/refs/remotes" list new directory
+80521-013111.949 Queueing "7brc6r426r4bjf284pqksnbes6" <local directory listing of ".git/logs/refs/remotes">
+80521-013111.949 Queueing "93fo1aj9kvbjvb3pg77sh59di1" <creation of remote directory ".git/logs/refs/remotes">
+80521-013111.949 Adding dependency "93fo1aj9kvbjvb3pg77sh59di1" <creation of remote directory ".git/logs/refs/remotes"> on "7brc6r426r4bjf284pqksnbes6" <local directory listing of ".git/logs/refs/remotes">
+80521-013111.949 Adding dependency "93fo1aj9kvbjvb3pg77sh59di1" <creation of remote directory ".git/logs/refs/remotes"> on "2tshrggc277fgu3ee7bmeegee4" <local directory listing of ".git/logs/refs">
+80521-013111.949 REDUCE ".git/logs/refs/remotes" create collection
+80521-013111.949 Ending "2tshrggc277fgu3ee7bmeegee4" <local directory listing of ".git/logs/refs"> : finished and removed
+80521-013111.949 LOCAL ".git/logs/refs/remotes/origin" list new directory
+80521-013111.949 Queueing "kgh0pjsilgq0lq4s63eqlu8s80" <creation of remote directory ".git/logs/refs/remotes/origin">
+80521-013111.949 Adding dependency "kgh0pjsilgq0lq4s63eqlu8s80" <creation of remote directory ".git/logs/refs/remotes/origin"> on "93fo1aj9kvbjvb3pg77sh59di1" <creation of remote directory ".git/logs/refs/remotes">
+80521-013111.949 REDUCE ".git/logs/refs/remotes/origin" create collection
+80521-013111.949 Queueing "j7iacn6v831m2okmq6630lf864" <digest creation for ".git/logs/refs/remotes/origin/master">
+80521-013111.949 Ending "7brc6r426r4bjf284pqksnbes6" <local directory listing of ".git/logs/refs/remotes"> : finished and removed
+80521-013111.950 DIGEST ".git/logs/refs/remotes/origin/master"
+80521-013111.950 ".git/logs/refs/remotes" MKCOL
+80521-013111.950 DIGEST ".git/logs/refs/remotes/origin/master" 0 / 148
+80521-013111.950 DIGEST ".git/logs/refs/remotes/origin/master" OK
+80521-013111.950 Ending "j7iacn6v831m2okmq6630lf864" <digest creation for ".git/logs/refs/remotes/origin/master"> : finished and removed
+80521-013111.950 LOCAL ".git/logs/refs/remotes/origin/master" 002d7b3f 148 file
+80521-013111.950 PROP ".git/logs/refs/remotes/origin/master" lh=002d7b3f,in=5e928e9d
+80521-013111.950 Queueing "r1njusu4r4ca36ns15hrtl5bf1" <upload of ".git/logs/refs/remotes/origin/master">
+80521-013111.950 Adding dependency "r1njusu4r4ca36ns15hrtl5bf1" <upload of ".git/logs/refs/remotes/origin/master"> on "kgh0pjsilgq0lq4s63eqlu8s80" <creation of remote directory ".git/logs/refs/remotes/origin">
+80521-013111.950 REDUCE ".git/logs/refs/remotes/origin/master" upload file
+80521-013112.149 DIGEST 899f4803 add OK
+80521-013112.149 DIGEST 002d7b3f add OK
+80521-013112.663 Queueing "p5lgd4i8m9rpkv943mhsmelk55" <pending ".git/refs/remotes">
+80521-013112.674 Queueing "beqaqiifua09301h6nclur8kv7" <pending ".git/logs/refs/remotes">
+80521-013113.062 ".git/refs/remotes" MKCOL OK
+80521-013113.062 Ending "u2h383rqmdqu07fc6ttbqvpus2" <creation of remote directory ".git/refs/remotes"> : finished and removed
+80521-013113.063 ".git/refs/remotes/origin" MKCOL
+80521-013113.063 Queueing "elrt1upc9dt32fkup1calpvga1" <pending ".git/refs/remotes/origin">
+80521-013113.074 ".git/logs/refs/remotes" MKCOL OK
+80521-013113.074 Ending "93fo1aj9kvbjvb3pg77sh59di1" <creation of remote directory ".git/logs/refs/remotes"> : finished and removed
+80521-013113.075 ".git/logs/refs/remotes/origin" MKCOL
+80521-013113.075 Queueing "0fo5bjsj34h6aqr6fah27q6l04" <pending ".git/logs/refs/remotes/origin">
+80521-013113.531 ".git/refs/remotes/origin" MKCOL OK
+80521-013113.531 Ending "3fk141nfjvbkr4u55emrchetn0" <creation of remote directory ".git/refs/remotes/origin"> : finished and removed
+80521-013113.581 PUT ".git/refs/remotes/origin/master" mime-type set to ""
+80521-013113.582 PUT ".git/refs/remotes/origin/master"
+80521-013113.582 Queueing "72hjh87g710ka8l16cpf8ccsh4" <pending ".git/refs/remotes/origin/master">
+80521-013113.582 Adding dependency "72hjh87g710ka8l16cpf8ccsh4" <pending ".git/refs/remotes/origin/master"> on "c4ogqkl2ogvossp9inauga9pt1" <upload of ".git/refs/remotes/origin/master">
+80521-013113.629 ".git/logs/refs/remotes/origin" MKCOL OK
+80521-013113.629 Ending "kgh0pjsilgq0lq4s63eqlu8s80" <creation of remote directory ".git/logs/refs/remotes/origin"> : finished and removed
+80521-013113.679 PUT ".git/logs/refs/remotes/origin/master" mime-type set to ""
+80521-013113.680 PUT ".git/logs/refs/remotes/origin/master"
+80521-013113.680 Queueing "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master">
+80521-013113.680 Adding dependency "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master"> on "r1njusu4r4ca36ns15hrtl5bf1" <upload of ".git/logs/refs/remotes/origin/master">
+80521-013114.093 Ending "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master"> : removed
+80521-013114.093 Dequeueing "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master">
+80521-013114.093 PUT ".git/logs/refs/remotes/origin/master" 0 / 148
+80521-013114.093 Queueing "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master">
+80521-013114.093 Adding dependency "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master"> on "r1njusu4r4ca36ns15hrtl5bf1" <upload of ".git/logs/refs/remotes/origin/master">
+80521-013114.093 PUT ".git/logs/refs/remotes/origin/master" receiving response
+80521-013114.094 PUT ".git/logs/refs/remotes/origin/master" 148 / 148
+80521-013114.205 PUT ".git/refs/remotes/origin/master" 201 Hardlink OK
+80521-013114.205 Ending "c4ogqkl2ogvossp9inauga9pt1" <upload of ".git/refs/remotes/origin/master"> : finished and removed
+80521-013115.475 Index GET for version 1526841059732457
+80521-013115.476 STATE version 1526841059732457 written incrementally
+80521-013115.682 PUT ".git/logs/refs/remotes/origin/master" OK
+80521-013115.682 Ending "r1njusu4r4ca36ns15hrtl5bf1" <upload of ".git/logs/refs/remotes/origin/master"> : finished and removed
+80521-013115.701 Queueing "ja04u3h2cj985nfdu1req8qa30" <index>
+80521-013115.701 Adding dependency "ja04u3h2cj985nfdu1req8qa30" <index> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013116.582 REMOTE ".git/index" 74f55033 37b3a4fc 1334 file
+80521-013116.583 REMOTE ".git/logs/refs/remotes" 3185c476 collection
+80521-013116.583 PROP ".git/logs/refs/remotes" in=735f0b6f,id=3185c476
+80521-013116.583 REDUCE ".git/logs/refs/remotes" pending collection
+80521-013116.583 Ending "beqaqiifua09301h6nclur8kv7" <pending ".git/logs/refs/remotes"> : removed
+80521-013116.583 Dequeueing "beqaqiifua09301h6nclur8kv7" <pending ".git/logs/refs/remotes">
+80521-013116.583 REMOTE ".git/logs/refs/remotes/origin" 16eba1ad collection
+80521-013116.583 PROP ".git/logs/refs/remotes/origin" in=2a62524d,id=16eba1ad
+80521-013116.583 REDUCE ".git/logs/refs/remotes/origin" pending collection
+80521-013116.583 Ending "0fo5bjsj34h6aqr6fah27q6l04" <pending ".git/logs/refs/remotes/origin"> : removed
+80521-013116.583 Dequeueing "0fo5bjsj34h6aqr6fah27q6l04" <pending ".git/logs/refs/remotes/origin">
+80521-013116.583 REMOTE ".git/logs/refs/remotes/origin/master" be5742e6 002d7b3f 148 file
+80521-013116.583 PROP ".git/logs/refs/remotes/origin/master" lh=002d7b3f,rh=002d7b3f,in=5e928e9d,id=be5742e6
+80521-013116.583 REDUCE ".git/logs/refs/remotes/origin/master" pending file
+80521-013116.583 Ending "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master"> : removed
+80521-013116.583 Dequeueing "1tj4t2f3rgj0fpmg16kg5j7p96" <pending ".git/logs/refs/remotes/origin/master">
+80521-013116.583 REMOTE ".git/refs/remotes" 99c39a56 collection
+80521-013116.583 PROP ".git/refs/remotes" in=7362e452,id=99c39a56
+80521-013116.583 REDUCE ".git/refs/remotes" pending collection
+80521-013116.583 Ending "p5lgd4i8m9rpkv943mhsmelk55" <pending ".git/refs/remotes"> : removed
+80521-013116.583 Dequeueing "p5lgd4i8m9rpkv943mhsmelk55" <pending ".git/refs/remotes">
+80521-013116.583 REMOTE ".git/refs/remotes/origin" f5eae6ba collection
+80521-013116.583 PROP ".git/refs/remotes/origin" in=3f02798a,id=f5eae6ba
+80521-013116.583 REDUCE ".git/refs/remotes/origin" pending collection
+80521-013116.584 Ending "elrt1upc9dt32fkup1calpvga1" <pending ".git/refs/remotes/origin"> : removed
+80521-013116.584 Dequeueing "elrt1upc9dt32fkup1calpvga1" <pending ".git/refs/remotes/origin">
+80521-013116.584 REMOTE ".git/refs/remotes/origin/master" 13e7a26f 899f4803 41 file
+80521-013116.584 PROP ".git/refs/remotes/origin/master" lh=899f4803,rh=899f4803,in=5999cd9e,id=13e7a26f
+80521-013116.584 REDUCE ".git/refs/remotes/origin/master" pending file
+80521-013116.584 Ending "72hjh87g710ka8l16cpf8ccsh4" <pending ".git/refs/remotes/origin/master"> : removed
+80521-013116.584 Dequeueing "72hjh87g710ka8l16cpf8ccsh4" <pending ".git/refs/remotes/origin/master">
+80521-013116.584 Index version 1526841075653859 received
+80521-013116.584 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-013116.584 Index request delayed for 14 seconds
+80521-013125.682 Releasing request to https://webdav.yandex.ru:443
+80521-013126.169 PUT ".git/logs/HEAD" OK
+80521-013126.169 Ending "lntjc31q731291pudeugssj351" <upload of ".git/logs/HEAD"> : finished and removed
+80521-013126.170 Core INDEX
+80521-013131.583 Index GET for version 1526841075653859
+80521-013131.583 STATE version 1526841075653859 written incrementally
+80521-013131.957 REMOTE ".git/logs/HEAD" d811bb1f c2c44b2c 163 file
+80521-013131.957 PROP ".git/logs/HEAD" lh=c2c44b2c,rh=c2c44b2c,in=25b3336d,id=d811bb1f
+80521-013131.957 REDUCE ".git/logs/HEAD" pending file
+80521-013131.957 Ending "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD"> : removed
+80521-013131.957 Dequeueing "9sjv4no6hsle3v56sef663v970" <pending ".git/logs/HEAD">
+80521-013131.957 Index version 1526841085701788 received
+80521-013131.958 Ending "ja04u3h2cj985nfdu1req8qa30" <index> : finished and removed
+80521-013131.958 "" directory / update (recursive)
+80521-013131.958 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-013132.964 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-013132.964 Core IDLE
+80521-013132.964 GARBAGE looking for obsolete files
+80521-013132.965 GARBAGE "tmp" tmp garbage to be removed
+80521-013132.965 STATE version 1526841085701788 written incrementally
+80521-013202.125 User info GET
+80521-013203.167 User info GET OK (concurrency 5 / 1 / 1)
+80521-013203.168 User info PROPFIND
+80521-013203.734 User info PROPFIND OK
+80521-013303.736 User info GET
+80521-013304.769 User info GET OK (concurrency 5 / 1 / 1)
+80521-013304.770 User info PROPFIND
+80521-013305.306 User info PROPFIND OK
+80521-013405.307 User info GET
+80521-013406.363 User info GET OK (concurrency 5 / 1 / 1)
+80521-013406.363 User info PROPFIND
+80521-013406.906 User info PROPFIND OK
+80521-013506.907 User info GET
+80521-013508.107 User info GET OK (concurrency 5 / 1 / 1)
+80521-013508.107 User info PROPFIND
+80521-013508.653 User info PROPFIND OK
+80521-013608.654 User info GET
+80521-013609.711 User info GET OK (concurrency 5 / 1 / 1)
+80521-013609.712 User info PROPFIND
+80521-013610.272 User info PROPFIND OK
+80521-013710.273 User info GET
+80521-013711.302 User info GET OK (concurrency 5 / 1 / 1)
+80521-013711.303 User info PROPFIND
+80521-013711.870 User info PROPFIND OK
+80521-013811.871 User info GET
+80521-013812.939 User info GET OK (concurrency 5 / 1 / 1)
+80521-013812.939 User info PROPFIND
+80521-013813.491 User info PROPFIND OK
+80521-013848.198 MONITOR create "/home/hernowo/Yandex.Disk" / "Password/Hernowo_Passwords.kdbx.kn6188"
+80521-013848.199 "Password" directory / update
+80521-013848.199 LOCAL "Password" directory
+80521-013848.205 Queueing "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password">
+80521-013848.205 MONITOR modify "/home/hernowo/Yandex.Disk" / "Password/Hernowo_Passwords.kdbx.kn6188"
+80521-013848.205 "Password" directory / update
+80521-013848.205 LOCAL "Password" directory
+80521-013848.354 MONITOR modify "/home/hernowo/Yandex.Disk" / "Password/Hernowo_Passwords.kdbx.kn6188"
+80521-013848.354 "Password" directory / update
+80521-013848.354 LOCAL "Password" directory
+80521-013848.477 MONITOR rename "/home/hernowo/Yandex.Disk" / "Password/Hernowo_Passwords.kdbx.kn6188" / "Password/Hernowo_Passwords.kdbx"
+80521-013848.477 "Password" directory / update
+80521-013848.477 LOCAL "Password" directory
+80521-013849.478 PROP "Password/Hernowo_Passwords.kdbx" rh=325f6964,in=8767b468,id=ad787ece,rm=4a9e5c31
+80521-013849.478 Queueing "8dk8o9uja93e2m50a27j3udro4" <digest creation for "Password/Hernowo_Passwords.kdbx">
+80521-013849.478 Ending "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password"> : finished and removed
+80521-013849.478 Core INDEX
+80521-013849.478 DIGEST 325f6964 read OK
+80521-013849.478 DIGEST "Password/Hernowo_Passwords.kdbx" delta
+80521-013849.479 DIGEST "Password/Hernowo_Passwords.kdbx" 0 / 1758
+80521-013849.479 DIGEST "Password/Hernowo_Passwords.kdbx" delta OK
+80521-013849.479 Ending "8dk8o9uja93e2m50a27j3udro4" <digest creation for "Password/Hernowo_Passwords.kdbx"> : finished and removed
+80521-013849.479 LOCAL "Password/Hernowo_Passwords.kdbx" 3bfa5e04 1758 file
+80521-013849.479 PROP "Password/Hernowo_Passwords.kdbx" lh=3bfa5e04,rh=325f6964,in=8767b468,id=ad787ece,rm=4a9e5c31
+80521-013849.479 Queueing "f9qelgooskd9nhho6nn1opcig6" <upload of "Password/Hernowo_Passwords.kdbx">
+80521-013849.479 REDUCE "Password/Hernowo_Passwords.kdbx" upload file
+80521-013849.479 Core BUSY
+80521-013849.679 DIGEST 3bfa5e04 add OK
+80521-013850.479 PUT "Password/Hernowo_Passwords.kdbx" mime-type set to "" / cached
+80521-013850.480 PUT "Password/Hernowo_Passwords.kdbx" looking for a delta from 325f6964 to 3bfa5e04
+80521-013850.481 PUT "Password/Hernowo_Passwords.kdbx"
+80521-013851.244 Queueing "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx">
+80521-013851.244 Adding dependency "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx"> on "f9qelgooskd9nhho6nn1opcig6" <upload of "Password/Hernowo_Passwords.kdbx">
+80521-013851.579 Ending "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx"> : removed
+80521-013851.579 Dequeueing "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx">
+80521-013851.579 PUT "Password/Hernowo_Passwords.kdbx" 0 / 1758
+80521-013851.579 Queueing "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx">
+80521-013851.579 Adding dependency "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx"> on "f9qelgooskd9nhho6nn1opcig6" <upload of "Password/Hernowo_Passwords.kdbx">
+80521-013851.579 PUT "Password/Hernowo_Passwords.kdbx" receiving response
+80521-013851.579 PUT "Password/Hernowo_Passwords.kdbx" 1758 / 1758
+80521-013852.498 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013852.533 PUT "Password/Hernowo_Passwords.kdbx" OK
+80521-013852.533 Ending "f9qelgooskd9nhho6nn1opcig6" <upload of "Password/Hernowo_Passwords.kdbx"> : finished and removed
+80521-013852.534 Core INDEX
+80521-013852.534 Index GET for version 1526841085701788
+80521-013852.786 Queueing "ja04u3h2cj985nfdu1req8qa30" <index>
+80521-013852.786 Adding dependency "ja04u3h2cj985nfdu1req8qa30" <index> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-013852.836 REMOTE "Password/Hernowo_Passwords.kdbx" ad787ece 3bfa5e04 1758 file
+80521-013852.836 PROP "Password/Hernowo_Passwords.kdbx" lh=3bfa5e04,rh=3bfa5e04,in=8767b468,id=ad787ece,rm=4a9e5c31
+80521-013852.837 REDUCE "Password/Hernowo_Passwords.kdbx" pending file
+80521-013852.837 Ending "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx"> : removed
+80521-013852.837 Dequeueing "s1ae7ecmtu89cthnitobsmkpi4" <pending "Password/Hernowo_Passwords.kdbx">
+80521-013852.837 Index version 1526841532479840 received
+80521-013852.837 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-013852.837 Index request delayed for 14 seconds
+80521-013903.199 STATE version 1526841532479840 written incrementally
+80521-013907.836 Index GET for version 1526841532479840
+80521-013909.132 Index version 1526841532479840 received
+80521-013909.132 Ending "ja04u3h2cj985nfdu1req8qa30" <index> : finished and removed
+80521-013909.132 "" directory / update (recursive)
+80521-013909.132 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-013910.141 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-013910.141 Core IDLE
+80521-013910.141 GARBAGE looking for obsolete files
+80521-013910.145 GARBAGE "tmp" tmp garbage to be removed
+80521-013913.491 User info GET
+80521-013914.532 User info GET OK (concurrency 5 / 1 / 1)
+80521-013914.532 User info PROPFIND
+80521-013915.073 User info PROPFIND OK
+80521-014015.074 User info GET
+80521-014016.309 User info GET OK (concurrency 5 / 1 / 1)
+80521-014016.309 User info PROPFIND
+80521-014016.828 User info PROPFIND OK
+80521-014116.828 User info GET
+80521-014117.913 User info GET OK (concurrency 5 / 1 / 1)
+80521-014117.913 User info PROPFIND
+80521-014118.484 User info PROPFIND OK
+80521-014218.485 User info GET
+80521-014219.549 User info GET OK (concurrency 5 / 1 / 1)
+80521-014219.549 User info PROPFIND
+80521-014220.111 User info PROPFIND OK
+80521-014320.112 User info GET
+80521-014321.252 User info GET OK (concurrency 5 / 1 / 1)
+80521-014321.252 User info PROPFIND
+80521-014321.970 User info PROPFIND OK
+80521-014421.970 User info GET
+80521-014422.953 User info GET OK (concurrency 5 / 1 / 1)
+80521-014422.954 User info PROPFIND
+80521-014423.494 User info PROPFIND OK
+80521-014523.495 User info GET
+80521-014524.943 User info GET OK (concurrency 5 / 1 / 1)
+80521-014524.943 User info PROPFIND
+80521-014525.540 User info PROPFIND OK
+80521-014625.541 User info GET
+80521-014626.583 User info GET OK (concurrency 5 / 1 / 1)
+80521-014626.584 User info PROPFIND
+80521-014627.162 User info PROPFIND OK
+80521-014727.162 User info GET
+80521-014728.195 User info GET OK (concurrency 5 / 1 / 1)
+80521-014728.196 User info PROPFIND
+80521-014728.761 User info PROPFIND OK
+80521-014828.762 User info GET
+80521-014829.813 User info GET OK (concurrency 5 / 1 / 1)
+80521-014829.814 User info PROPFIND
+80521-014830.404 User info PROPFIND OK
+80521-014930.404 User info GET
+80521-014931.655 User info GET OK (concurrency 5 / 1 / 1)
+80521-014931.655 User info PROPFIND
+80521-014932.217 User info PROPFIND OK
+80521-015032.217 User info GET
+80521-015033.518 User info GET OK (concurrency 5 / 1 / 1)
+80521-015033.519 User info PROPFIND
+80521-015034.071 User info PROPFIND OK
+80521-015134.072 User info GET
+80521-015135.099 User info GET OK (concurrency 5 / 1 / 1)
+80521-015135.100 User info PROPFIND
+80521-015135.635 User info PROPFIND OK
+80521-015235.636 User info GET
+80521-015236.639 User info GET OK (concurrency 5 / 1 / 1)
+80521-015236.639 User info PROPFIND
+80521-015237.152 User info PROPFIND OK
+80521-015337.153 User info GET
+80521-015338.175 User info GET OK (concurrency 5 / 1 / 1)
+80521-015338.175 User info PROPFIND
+80521-015338.708 User info PROPFIND OK
+80521-015438.709 User info GET
+80521-015439.751 User info GET OK (concurrency 5 / 1 / 1)
+80521-015439.751 User info PROPFIND
+80521-015440.283 User info PROPFIND OK
+80521-015449.847 MONITOR create "/home/hernowo/Yandex.Disk" / "Password/Untitled Document"
+80521-015449.847 "Password" directory / update
+80521-015449.847 LOCAL "Password" directory
+80521-015449.848 Queueing "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password">
+80521-015450.848 Queueing "nea7crnv3r977582aj52pit414" <digest creation for "Password/Untitled Document">
+80521-015450.848 Ending "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password"> : finished and removed
+80521-015450.848 DIGEST "Password/Untitled Document"
+80521-015450.849 Core INDEX
+80521-015450.849 DIGEST "Password/Untitled Document" OK
+80521-015450.849 Ending "nea7crnv3r977582aj52pit414" <digest creation for "Password/Untitled Document"> : finished and removed
+80521-015450.849 LOCAL "Password/Untitled Document" e3b0c442 0 file
+80521-015450.849 PROP "Password/Untitled Document" lh=e3b0c442,in=fd4dd943
+80521-015450.849 Queueing "bh9qjkb0vvd061jh1onh21veu1" <upload of "Password/Untitled Document">
+80521-015450.849 REDUCE "Password/Untitled Document" upload file
+80521-015450.849 Core BUSY
+80521-015451.049 DIGEST e3b0c442 add OK
+80521-015451.900 PUT "Password/Untitled Document" mime-type set to ""
+80521-015451.900 PUT "Password/Untitled Document"
+80521-015452.657 Queueing "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document">
+80521-015452.657 Adding dependency "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document"> on "bh9qjkb0vvd061jh1onh21veu1" <upload of "Password/Untitled Document">
+80521-015453.241 PUT "Password/Untitled Document" 201 Hardlink OK
+80521-015453.241 Ending "bh9qjkb0vvd061jh1onh21veu1" <upload of "Password/Untitled Document"> : finished and removed
+80521-015453.327 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-015453.327 Core INDEX
+80521-015453.328 Index GET for version 1526841532479840
+80521-015454.239 MONITOR rename "/home/hernowo/Yandex.Disk" / "Password/Untitled Document" / "Password/Readme.txt"
+80521-015454.239 "Password" directory / update
+80521-015454.239 LOCAL "Password" directory
+80521-015454.239 Queueing "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password">
+80521-015454.436 REMOTE "Password/Untitled Document" e3b14f5c e3b0c442 0 file
+80521-015454.436 PROP "Password/Untitled Document" lh=e3b0c442,rh=e3b0c442,in=fd4dd943,id=e3b14f5c
+80521-015454.436 REDUCE "Password/Untitled Document" pending file
+80521-015454.436 Ending "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document"> : removed
+80521-015454.436 Dequeueing "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document">
+80521-015454.436 Index version 1526842492925249 received
+80521-015454.436 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-015455.240 LOCAL "Password/Readme.txt" e3b0c442 0 file
+80521-015455.240 PROP "Password/Readme.txt" lh=e3b0c442,in=fd4dd943
+80521-015455.240 Queueing "hhisrumilg3ucib3cf4an4mmp2" <upload of "Password/Readme.txt">
+80521-015455.240 REDUCE "Password/Readme.txt" upload file
+80521-015455.240 LOCAL "Password/Untitled Document" list missing
+80521-015455.240 PROP "Password/Untitled Document" rh=e3b0c442,id=e3b14f5c,rm=fd4dd943
+80521-015455.240 Queueing "m9t034o6oh03mpj6otsaooud45" <remote move of "Password/Untitled Document" to "Password/Readme.txt">
+80521-015455.240 Ending "hhisrumilg3ucib3cf4an4mmp2" <upload of "Password/Readme.txt"> : removed
+80521-015455.240 Dequeueing "hhisrumilg3ucib3cf4an4mmp2" <upload of "Password/Readme.txt">
+80521-015455.240 REDUCE "Password/Untitled Document" remove remote
+80521-015455.240 Ending "4sfrvb6bf1l0dr8akeoofel1l5" <local directory listing of "Password"> : finished and removed
+80521-015455.240 Core BUSY
+80521-015456.240 "Password/Untitled Document" MOVE to "Password/Readme.txt"
+80521-015457.012 Queueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015457.013 Adding dependency "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> on "m9t034o6oh03mpj6otsaooud45" <remote move of "Password/Untitled Document" to "Password/Readme.txt">
+80521-015457.013 Queueing "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document">
+80521-015457.013 Adding dependency "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document"> on "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015457.924 "Password/Untitled Document" MOVE to "Password/Readme.txt" OK
+80521-015457.924 PROP "Password/Readme.txt" lh=e3b0c442,in=fd4dd943,rm=e3b14f5c
+80521-015457.924 Ending "m9t034o6oh03mpj6otsaooud45" <remote move of "Password/Untitled Document" to "Password/Readme.txt"> : finished and removed
+80521-015457.965 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-015457.965 Core INDEX
+80521-015504.848 STATE version 1526842492925249 written incrementally
+80521-015507.924 Releasing request to https://webdav.yandex.ru:443
+80521-015509.436 Index GET for version 1526842492925249
+80521-015510.486 REMOTE "Password/Untitled Document" URL remove
+80521-015510.487 PROP "Password/Untitled Document" rm=e3b14f5c
+80521-015510.487 REDUCE "Password/Untitled Document" pending remove
+80521-015510.487 Ending "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document"> : removed
+80521-015510.487 Dequeueing "8guoqkqnoodhfr4laeub4itp51" <pending "Password/Untitled Document">
+80521-015510.487 Queueing "t5cu2ourjkjvs5so0rshcecbm2" <reduce of "Password/Untitled Document">
+80521-015510.487 Adding dependency "t5cu2ourjkjvs5so0rshcecbm2" <reduce of "Password/Untitled Document"> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-015510.487 REMOTE "Password/Readme.txt" e3b14f5c e3b0c442 0 file
+80521-015510.487 PROP "Password/Readme.txt" lh=e3b0c442,rh=e3b0c442,in=fd4dd943,id=e3b14f5c
+80521-015510.487 REDUCE "Password/Readme.txt" pending move
+80521-015510.487 Ending "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> : removed
+80521-015510.487 Dequeueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015510.487 Queueing "a04bq1i50a7df7vvufbp013m41" <reduce of "Password/Readme.txt">
+80521-015510.488 Index version 1526842497675405 received
+80521-015510.488 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-015510.488 Ending "a04bq1i50a7df7vvufbp013m41" <reduce of "Password/Readme.txt"> : removed
+80521-015510.488 Dequeueing "a04bq1i50a7df7vvufbp013m41" <reduce of "Password/Readme.txt">
+80521-015510.488 PROP "Password/Untitled Document"
+80521-015510.488 REDUCE "Password/Untitled Document" empty
+80521-015510.488 Ending "t5cu2ourjkjvs5so0rshcecbm2" <reduce of "Password/Untitled Document"> : removed
+80521-015510.488 Dequeueing "t5cu2ourjkjvs5so0rshcecbm2" <reduce of "Password/Untitled Document">
+80521-015510.488 "" directory / update (recursive)
+80521-015510.488 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-015511.095 MONITOR create "/home/hernowo/Yandex.Disk" / "Password/.goutputstream-L0AAJZ"
+80521-015511.095 "Password" directory / update
+80521-015511.095 LOCAL "Password" directory
+80521-015511.096 MONITOR modify "/home/hernowo/Yandex.Disk" / "Password/.goutputstream-L0AAJZ"
+80521-015511.096 "Password" directory / update
+80521-015511.096 LOCAL "Password" directory
+80521-015511.096 MONITOR modify "/home/hernowo/Yandex.Disk" / "Password/.goutputstream-L0AAJZ"
+80521-015511.096 "Password" directory / update
+80521-015511.097 LOCAL "Password" directory
+80521-015511.097 MONITOR modify "/home/hernowo/Yandex.Disk" / "Password/.goutputstream-L0AAJZ"
+80521-015511.098 "Password" directory / update
+80521-015511.098 LOCAL "Password" directory
+80521-015511.160 MONITOR rename "/home/hernowo/Yandex.Disk" / "Password/.goutputstream-L0AAJZ" / "Password/Readme.txt"
+80521-015511.160 "Password" directory / update
+80521-015511.160 LOCAL "Password" directory
+80521-015512.166 PROP "Password/Readme.txt" rh=e3b0c442,in=7161b069,id=e3b14f5c,rm=fd4dd943
+80521-015512.166 Queueing "7dq2odf34sdsrjtpijql80v2d4" <digest creation for "Password/Readme.txt">
+80521-015512.166 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-015512.167 DIGEST e3b0c442 read OK
+80521-015512.167 DIGEST "Password/Readme.txt" delta
+80521-015512.167 DIGEST "Password/Readme.txt" delta OK
+80521-015512.167 Ending "7dq2odf34sdsrjtpijql80v2d4" <digest creation for "Password/Readme.txt"> : finished and removed
+80521-015512.167 LOCAL "Password/Readme.txt" b82fe088 20 file
+80521-015512.167 PROP "Password/Readme.txt" lh=b82fe088,rh=e3b0c442,in=7161b069,id=e3b14f5c,rm=fd4dd943
+80521-015512.167 Queueing "irg3u86tv8le9clckdkvmhnq73" <upload of "Password/Readme.txt">
+80521-015512.168 REDUCE "Password/Readme.txt" upload file
+80521-015512.168 Core BUSY
+80521-015512.367 DIGEST b82fe088 add OK
+80521-015513.218 PUT "Password/Readme.txt" mime-type set to ""
+80521-015513.218 PUT "Password/Readme.txt" looking for a delta from e3b0c442 to b82fe088
+80521-015513.219 PUT "Password/Readme.txt"
+80521-015513.980 Queueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015513.980 Adding dependency "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> on "irg3u86tv8le9clckdkvmhnq73" <upload of "Password/Readme.txt">
+80521-015514.408 Ending "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> : removed
+80521-015514.408 Dequeueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015514.408 PUT "Password/Readme.txt" 0 / 20
+80521-015514.408 Queueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015514.408 Adding dependency "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> on "irg3u86tv8le9clckdkvmhnq73" <upload of "Password/Readme.txt">
+80521-015514.408 PUT "Password/Readme.txt" receiving response
+80521-015514.408 PUT "Password/Readme.txt" 20 / 20
+80521-015525.488 STATE version 1526842497675405 written incrementally
+80521-015527.192 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-015527.219 PUT "Password/Readme.txt" OK
+80521-015527.220 Ending "irg3u86tv8le9clckdkvmhnq73" <upload of "Password/Readme.txt"> : finished and removed
+80521-015527.221 Core INDEX
+80521-015527.221 Index GET for version 1526842497675405
+80521-015527.578 REMOTE "Password/Readme.txt" e3b14f5c b82fe088 20 file
+80521-015527.578 PROP "Password/Readme.txt" lh=b82fe088,rh=b82fe088,in=7161b069,id=e3b14f5c,rm=fd4dd943
+80521-015527.578 REDUCE "Password/Readme.txt" pending file
+80521-015527.578 Ending "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt"> : removed
+80521-015527.578 Dequeueing "2csfbkm53rp68issoalmcb76j1" <pending "Password/Readme.txt">
+80521-015527.578 Index version 1526842526820830 received
+80521-015527.578 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-015527.578 "" directory / update (recursive)
+80521-015527.578 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-015528.039 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-015528.593 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-015540.284 User info GET
+80521-015541.546 User info GET OK (concurrency 5 / 1 / 1)
+80521-015541.546 User info PROPFIND
+80521-015542.081 User info PROPFIND OK
+80521-015542.578 Index GET for version 1526842526820830
+80521-015542.579 STATE version 1526842526820830 written incrementally
+80521-015543.592 REMOTE "Password/Readme.txt" e3b14f5c b82fe088 20 file
+80521-015543.592 Index version 1526842527746551 received
+80521-015543.592 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-015543.593 Core IDLE
+80521-015543.593 GARBAGE looking for obsolete files
+80521-015543.594 GARBAGE "tmp" tmp garbage to be removed
+80521-015642.081 User info GET
+80521-015643.121 User info GET OK (concurrency 5 / 1 / 1)
+80521-015643.121 User info PROPFIND
+80521-015643.690 User info PROPFIND OK
+80521-015743.690 User info GET
+80521-015744.705 User info GET OK (concurrency 5 / 1 / 1)
+80521-015744.706 User info PROPFIND
+80521-015745.262 User info PROPFIND OK
+80521-015845.263 User info GET
+80521-015847.479 User info GET OK (concurrency 5 / 1 / 1)
+80521-015847.479 User info PROPFIND
+80521-015848.190 User info PROPFIND OK
+80521-015948.191 User info GET
+80521-015949.461 User info GET OK (concurrency 5 / 1 / 1)
+80521-015949.461 User info PROPFIND
+80521-015950.041 User info PROPFIND OK
+80521-020050.042 User info GET
+80521-020051.282 User info GET OK (concurrency 5 / 1 / 1)
+80521-020051.283 User info PROPFIND
+80521-020051.845 User info PROPFIND OK
+80521-020151.846 User info GET
+80521-020152.854 User info GET OK (concurrency 5 / 1 / 1)
+80521-020152.855 User info PROPFIND
+80521-020153.418 User info PROPFIND OK
+80521-020253.418 User info GET
+80521-020254.682 User info GET OK (concurrency 5 / 1 / 1)
+80521-020254.682 User info PROPFIND
+80521-020255.211 User info PROPFIND OK
+80521-020355.212 User info GET
+80521-020356.202 User info GET OK (concurrency 5 / 1 / 1)
+80521-020356.202 User info PROPFIND
+80521-020356.748 User info PROPFIND OK
+80521-020456.749 User info GET
+80521-020457.770 User info GET OK (concurrency 5 / 1 / 1)
+80521-020457.770 User info PROPFIND
+80521-020458.337 User info PROPFIND OK
+80521-020558.338 User info GET
+80521-020559.678 User info GET OK (concurrency 5 / 1 / 1)
+80521-020559.678 User info PROPFIND
+80521-020600.227 User info PROPFIND OK
+80521-020700.228 User info GET
+80521-020701.229 User info GET OK (concurrency 5 / 1 / 1)
+80521-020701.230 User info PROPFIND
+80521-020701.773 User info PROPFIND OK
+80521-020801.774 User info GET
+80521-020802.800 User info GET OK (concurrency 5 / 1 / 1)
+80521-020802.800 User info PROPFIND
+80521-020803.334 User info PROPFIND OK
+80521-020903.334 User info GET
+80521-020904.392 User info GET OK (concurrency 5 / 1 / 1)
+80521-020904.392 User info PROPFIND
+80521-020904.932 User info PROPFIND OK
+80521-021004.933 User info GET
+80521-021006.203 User info GET OK (concurrency 5 / 1 / 1)
+80521-021006.203 User info PROPFIND
+80521-021006.739 User info PROPFIND OK
+80521-021106.741 User info GET
+80521-021108.017 User info GET OK (concurrency 5 / 1 / 1)
+80521-021108.017 User info PROPFIND
+80521-021108.562 User info PROPFIND OK
+80521-021208.562 User info GET
+80521-021209.585 User info GET OK (concurrency 5 / 1 / 1)
+80521-021209.585 User info PROPFIND
+80521-021210.116 User info PROPFIND OK
+80521-021310.117 User info GET
+80521-021311.128 User info GET OK (concurrency 5 / 1 / 1)
+80521-021311.128 User info PROPFIND
+80521-021311.647 User info PROPFIND OK
+80521-021411.648 User info GET
+80521-021412.649 User info GET OK (concurrency 5 / 1 / 1)
+80521-021412.649 User info PROPFIND
+80521-021413.173 User info PROPFIND OK
+80521-021513.175 User info GET
+80521-021514.187 User info GET OK (concurrency 5 / 1 / 1)
+80521-021514.187 User info PROPFIND
+80521-021514.694 User info PROPFIND OK
+80521-021614.695 User info GET
+80521-021615.947 User info GET OK (concurrency 5 / 1 / 1)
+80521-021615.948 User info PROPFIND
+80521-021616.477 User info PROPFIND OK
+80521-021716.478 User info GET
+80521-021717.511 User info GET OK (concurrency 5 / 1 / 1)
+80521-021717.511 User info PROPFIND
+80521-021718.100 User info PROPFIND OK
+80521-021818.101 User info GET
+80521-021819.156 User info GET OK (concurrency 5 / 1 / 1)
+80521-021819.156 User info PROPFIND
+80521-021819.726 User info PROPFIND OK
+80521-021919.727 User info GET
+80521-021920.761 User info GET OK (concurrency 5 / 1 / 1)
+80521-021920.761 User info PROPFIND
+80521-021921.355 User info PROPFIND OK
+80521-022021.357 User info GET
+80521-022022.642 User info GET OK (concurrency 5 / 1 / 1)
+80521-022022.643 User info PROPFIND
+80521-022023.213 User info PROPFIND OK
+80521-022123.214 User info GET
+80521-022124.656 User info GET OK (concurrency 5 / 1 / 1)
+80521-022124.657 User info PROPFIND
+80521-022125.276 User info PROPFIND OK
+80521-022225.278 User info GET
+80521-022226.321 User info GET OK (concurrency 5 / 1 / 1)
+80521-022226.321 User info PROPFIND
+80521-022226.894 User info PROPFIND OK
+80521-022326.895 User info GET
+80521-022327.930 User info GET OK (concurrency 5 / 1 / 1)
+80521-022327.931 User info PROPFIND
+80521-022328.492 User info PROPFIND OK
+80521-022428.493 User info GET
+80521-022429.525 User info GET OK (concurrency 5 / 1 / 1)
+80521-022429.525 User info PROPFIND
+80521-022430.067 User info PROPFIND OK
+80521-022530.068 User info GET
+80521-022531.128 User info GET OK (concurrency 5 / 1 / 1)
+80521-022531.128 User info PROPFIND
+80521-022531.666 User info PROPFIND OK
+80521-022631.667 User info GET
+80521-022633.032 User info GET OK (concurrency 5 / 1 / 1)
+80521-022633.033 User info PROPFIND
+80521-022633.554 User info PROPFIND OK
+80521-022733.555 User info GET
+80521-022734.605 User info GET OK (concurrency 5 / 1 / 1)
+80521-022734.605 User info PROPFIND
+80521-022735.147 User info PROPFIND OK
+80521-022835.148 User info GET
+80521-022836.178 User info GET OK (concurrency 5 / 1 / 1)
+80521-022836.179 User info PROPFIND
+80521-022836.718 User info PROPFIND OK
+80521-022936.719 User info GET
+80521-022937.762 User info GET OK (concurrency 5 / 1 / 1)
+80521-022937.763 User info PROPFIND
+80521-022938.301 User info PROPFIND OK
+80521-023038.301 User info GET
+80521-023039.585 User info GET OK (concurrency 5 / 1 / 1)
+80521-023039.586 User info PROPFIND
+80521-023040.135 User info PROPFIND OK
+80521-023140.136 User info GET
+80521-023141.395 User info GET OK (concurrency 5 / 1 / 1)
+80521-023141.396 User info PROPFIND
+80521-023141.927 User info PROPFIND OK
+80521-023241.928 User info GET
+80521-023242.973 User info GET OK (concurrency 5 / 1 / 1)
+80521-023242.974 User info PROPFIND
+80521-023243.509 User info PROPFIND OK
+80521-023343.510 User info GET
+80521-023344.574 User info GET OK (concurrency 5 / 1 / 1)
+80521-023344.574 User info PROPFIND
+80521-023345.118 User info PROPFIND OK
+80521-023445.119 User info GET
+80521-023446.150 User info GET OK (concurrency 5 / 1 / 1)
+80521-023446.151 User info PROPFIND
+80521-023446.688 User info PROPFIND OK
+80521-023546.689 User info GET
+80521-023547.725 User info GET OK (concurrency 5 / 1 / 1)
+80521-023547.725 User info PROPFIND
+80521-023548.259 User info PROPFIND OK
+80521-023648.259 User info GET
+80521-023649.637 User info GET OK (concurrency 5 / 1 / 1)
+80521-023649.638 User info PROPFIND
+80521-023650.177 User info PROPFIND OK
+80521-023750.178 User info GET
+80521-023751.166 User info GET OK (concurrency 5 / 1 / 1)
+80521-023751.166 User info PROPFIND
+80521-023751.704 User info PROPFIND OK
+80521-023851.706 User info GET
+80521-023852.726 User info GET OK (concurrency 5 / 1 / 1)
+80521-023852.726 User info PROPFIND
+80521-023853.243 User info PROPFIND OK
+80521-023953.245 User info GET
+80521-023954.310 User info GET OK (concurrency 5 / 1 / 1)
+80521-023954.310 User info PROPFIND
+80521-023954.887 User info PROPFIND OK
+80521-024054.888 User info GET
+80521-024055.937 User info GET OK (concurrency 5 / 1 / 1)
+80521-024055.938 User info PROPFIND
+80521-024056.506 User info PROPFIND OK
+80521-024156.507 User info GET
+80521-024157.605 User info GET OK (concurrency 5 / 1 / 1)
+80521-024157.605 User info PROPFIND
+80521-024158.160 User info PROPFIND OK
+80521-024258.161 User info GET
+80521-024259.426 User info GET OK (concurrency 5 / 1 / 1)
+80521-024259.426 User info PROPFIND
+80521-024259.993 User info PROPFIND OK
+80521-024359.995 User info GET
+80521-024401.048 User info GET OK (concurrency 5 / 1 / 1)
+80521-024401.048 User info PROPFIND
+80521-024401.591 User info PROPFIND OK
+80521-024501.592 User info GET
+80521-024502.616 User info GET OK (concurrency 5 / 1 / 1)
+80521-024502.617 User info PROPFIND
+80521-024503.172 User info PROPFIND OK
+80521-024603.173 User info GET
+80521-024604.211 User info GET OK (concurrency 5 / 1 / 1)
+80521-024604.212 User info PROPFIND
+80521-024604.777 User info PROPFIND OK
+80521-024704.778 User info GET
+80521-024705.764 User info GET OK (concurrency 5 / 1 / 1)
+80521-024705.764 User info PROPFIND
+80521-024706.308 User info PROPFIND OK
+80521-024806.309 User info GET
+80521-024807.799 User info GET OK (concurrency 5 / 1 / 1)
+80521-024807.799 User info PROPFIND
+80521-024808.364 User info PROPFIND OK
+80521-024908.365 User info GET
+80521-024909.390 User info GET OK (concurrency 5 / 1 / 1)
+80521-024909.390 User info PROPFIND
+80521-024909.960 User info PROPFIND OK
+80521-025009.961 User info GET
+80521-025010.992 User info GET OK (concurrency 5 / 1 / 1)
+80521-025010.992 User info PROPFIND
+80521-025011.517 User info PROPFIND OK
+80521-025111.518 User info GET
+80521-025112.802 User info GET OK (concurrency 5 / 1 / 1)
+80521-025112.803 User info PROPFIND
+80521-025113.341 User info PROPFIND OK
+80521-025213.342 User info GET
+80521-025214.333 User info GET OK (concurrency 5 / 1 / 1)
+80521-025214.333 User info PROPFIND
+80521-025214.848 User info PROPFIND OK
+80521-025314.849 User info GET
+80521-025316.217 User info GET OK (concurrency 5 / 1 / 1)
+80521-025316.217 User info PROPFIND
+80521-025316.743 User info PROPFIND OK
+80521-025416.745 User info GET
+80521-025417.769 User info GET OK (concurrency 5 / 1 / 1)
+80521-025417.769 User info PROPFIND
+80521-025418.336 User info PROPFIND OK
+80521-101542.662 XIVA resetting event handler
+80521-101542.992 Core PAUSED
+80521-101543.115 Stopped
+                                       
+80521-101800.916 Starting (0.1.5.978)
+80521-101801.499 EXCLUDE list read error  ("22, Invalid argument")
+80521-101801.499 SPEC Read 1 / Downloads / uncustomized / safe
+80521-101801.499 SPEC Read 2 / Camera Uploads / uncustomized / safe
+80521-101801.499 SPEC Read 3 / Screenshots / uncustomized / safe
+80521-101801.499 User info GET OK (concurrency 5 / 1 / 1)
+80521-101801.500 User info PROPFIND
+80521-101801.500 "https://webdav.yandex.ru/disk/https%3A//webdav.yandex.ru/disk" list PROPFIND
+80521-101802.087 User info PROPFIND OK
+80521-101802.832 "https://webdav.yandex.ru/disk/https%3A//webdav.yandex.ru/disk" list PROPFIND 404
+80521-101802.833 Core INDEX
+80521-101803.591 DIGEST "~digest-000" open OK (72 / 4825 / 102400)
+80521-101803.592 Digest bank initialized
+80521-101803.710 STATE version 1526842526820830 read with 14 incremental frames
+80521-101803.986 XIVA connecting server
+80521-101803.988 MONITOR listening for "" in "/home/hernowo/Yandex.Disk" recursively
+80521-101803.988 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-101803.988 NOTIFICATIONS GET unviewed count
+80521-101803.994 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-101805.405 XIVA server connected
+80521-101805.405 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-101805.405 Queueing "ms5jv4lvegc7i6oime6n8l1m65" <operations listing>
+80521-101805.405 Adding dependency "ms5jv4lvegc7i6oime6n8l1m65" <operations listing> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-101805.405 Index GET for version 1526842526820830
+80521-101805.999 NOTIFICATIONS GET unviewed count http_status: 200
+80521-101806.444 REMOTE "Password/Readme.txt" e3b14f5c b82fe088 20 file
+80521-101806.445 Index version 1526842527746551 received
+80521-101806.445 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-101806.445 PROPFIND /operations
+80521-101806.445 Core BUSY
+80521-101807.709 PROPFIND /operations OK
+80521-101807.709 Ending "ms5jv4lvegc7i6oime6n8l1m65" <operations listing> : finished and removed
+80521-101807.709 Core INDEX
+80521-101807.833 Quota PROPFIND
+80521-101808.419 Core IDLE
+80521-101808.419 GARBAGE looking for obsolete files
+80521-101808.543 Quota PROPFIND OK 2008576 / 10735409664 / 53687091200 / 1667117
+80521-101808.543 Trash PROPFIND
+80521-101808.653 STATE version 1526842527746551 written
+80521-101809.058 Trash PROPFIND OK / not empty
+80521-101819.058 Releasing request to https://webdav.yandex.ru:443
+80521-101902.133 User info GET
+80521-101903.195 User info GET OK (concurrency 5 / 1 / 1)
+80521-101903.195 User info PROPFIND
+80521-101903.710 User info PROPFIND OK
+80521-102003.711 User info GET
+80521-102005.090 User info GET OK (concurrency 5 / 1 / 1)
+80521-102005.090 User info PROPFIND
+80521-102005.843 User info PROPFIND OK
+80521-102105.844 User info GET
+80521-102106.817 User info GET OK (concurrency 5 / 1 / 1)
+80521-102106.817 User info PROPFIND
+80521-102107.317 User info PROPFIND OK
+80521-102207.319 User info GET
+80521-102208.305 User info GET OK (concurrency 5 / 1 / 1)
+80521-102208.306 User info PROPFIND
+80521-102208.815 User info PROPFIND OK
+80521-102308.816 User info GET
+80521-102310.018 User info GET OK (concurrency 5 / 1 / 1)
+80521-102310.018 User info PROPFIND
+80521-102310.539 User info PROPFIND OK
+80521-102410.540 User info GET
+80521-102411.497 User info GET OK (concurrency 5 / 1 / 1)
+80521-102411.497 User info PROPFIND
+80521-102412.031 User info PROPFIND OK
+80521-102512.032 User info GET
+80521-102513.059 User info GET OK (concurrency 5 / 1 / 1)
+80521-102513.059 User info PROPFIND
+80521-102513.604 User info PROPFIND OK
+80521-102613.605 User info GET
+80521-102614.622 User info GET OK (concurrency 5 / 1 / 1)
+80521-102614.622 User info PROPFIND
+80521-102615.152 User info PROPFIND OK
+80521-102715.153 User info GET
+80521-102716.162 User info GET OK (concurrency 5 / 1 / 1)
+80521-102716.162 User info PROPFIND
+80521-102716.656 User info PROPFIND OK
+80521-102816.658 User info GET
+80521-102817.874 User info GET OK (concurrency 5 / 1 / 1)
+80521-102817.874 User info PROPFIND
+80521-102818.410 User info PROPFIND OK
+80521-102918.412 User info GET
+80521-102919.424 User info GET OK (concurrency 5 / 1 / 1)
+80521-102919.424 User info PROPFIND
+80521-102919.948 User info PROPFIND OK
+80521-103019.949 User info GET
+80521-103020.936 User info GET OK (concurrency 5 / 1 / 1)
+80521-103020.936 User info PROPFIND
+80521-103021.438 User info PROPFIND OK
+80521-103121.440 User info GET
+80521-103122.407 User info GET OK (concurrency 5 / 1 / 1)
+80521-103122.407 User info PROPFIND
+80521-103122.904 User info PROPFIND OK
+80521-103222.904 User info GET
+80521-103223.909 User info GET OK (concurrency 5 / 1 / 1)
+80521-103223.909 User info PROPFIND
+80521-103224.419 User info PROPFIND OK
+80521-103324.420 User info GET
+80521-103325.605 User info GET OK (concurrency 5 / 1 / 1)
+80521-103325.606 User info PROPFIND
+80521-103326.104 User info PROPFIND OK
+80521-103426.106 User info GET
+80521-103427.152 User info GET OK (concurrency 5 / 1 / 1)
+80521-103427.152 User info PROPFIND
+80521-103427.645 User info PROPFIND OK
+80521-103527.646 User info GET
+80521-103528.637 User info GET OK (concurrency 5 / 1 / 1)
+80521-103528.637 User info PROPFIND
+80521-103529.152 User info PROPFIND OK
+80521-103629.153 User info GET
+80521-103630.159 User info GET OK (concurrency 5 / 1 / 1)
+80521-103630.160 User info PROPFIND
+80521-103630.665 User info PROPFIND OK
+80521-103730.666 User info GET
+80521-103731.661 User info GET OK (concurrency 5 / 1 / 1)
+80521-103731.662 User info PROPFIND
+80521-103732.183 User info PROPFIND OK
+80521-103832.184 User info GET
+80521-103833.366 User info GET OK (concurrency 5 / 1 / 1)
+80521-103833.367 User info PROPFIND
+80521-103833.858 User info PROPFIND OK
+80521-103933.860 User info GET
+80521-103935.088 User info GET OK (concurrency 5 / 1 / 1)
+80521-103935.088 User info PROPFIND
+80521-103935.607 User info PROPFIND OK
+80521-104035.607 User info GET
+80521-104036.591 User info GET OK (concurrency 5 / 1 / 1)
+80521-104036.591 User info PROPFIND
+80521-104037.159 User info PROPFIND OK
+80521-104137.160 User info GET
+80521-104138.151 User info GET OK (concurrency 5 / 1 / 1)
+80521-104138.151 User info PROPFIND
+80521-104138.645 User info PROPFIND OK
+80521-104238.646 User info GET
+80521-104239.679 User info GET OK (concurrency 5 / 1 / 1)
+80521-104239.680 User info PROPFIND
+80521-104240.193 User info PROPFIND OK
+80521-104340.194 User info GET
+80521-104341.377 User info GET OK (concurrency 5 / 1 / 1)
+80521-104341.378 User info PROPFIND
+80521-104341.889 User info PROPFIND OK
+80521-104441.890 User info GET
+80521-104443.193 User info GET OK (concurrency 5 / 1 / 1)
+80521-104443.193 User info PROPFIND
+80521-104443.722 User info PROPFIND OK
+80521-104543.723 User info GET
+80521-104544.725 User info GET OK (concurrency 5 / 1 / 1)
+80521-104544.725 User info PROPFIND
+80521-104545.266 User info PROPFIND OK
+80521-104645.268 User info GET
+80521-104646.268 User info GET OK (concurrency 5 / 1 / 1)
+80521-104646.269 User info PROPFIND
+80521-104646.792 User info PROPFIND OK
+80521-104746.793 User info GET
+80521-104747.742 User info GET OK (concurrency 5 / 1 / 1)
+80521-104747.742 User info PROPFIND
+80521-104748.274 User info PROPFIND OK
+80521-104848.276 User info GET
+80521-104849.490 User info GET OK (concurrency 5 / 1 / 1)
+80521-104849.490 User info PROPFIND
+80521-104850.036 User info PROPFIND OK
+80521-104950.038 User info GET
+80521-104951.020 User info GET OK (concurrency 5 / 1 / 1)
+80521-104951.020 User info PROPFIND
+80521-104951.516 User info PROPFIND OK
+80521-105051.517 User info GET
+80521-105052.502 User info GET OK (concurrency 5 / 1 / 1)
+80521-105052.502 User info PROPFIND
+80521-105053.017 User info PROPFIND OK
+80521-105153.019 User info GET
+80521-105154.828 User info GET OK (concurrency 5 / 1 / 1)
+80521-105154.829 User info PROPFIND
+80521-105155.497 User info PROPFIND OK
+80521-105255.499 User info GET
+80521-105256.470 User info GET OK (concurrency 5 / 1 / 1)
+80521-105256.470 User info PROPFIND
+80521-105256.967 User info PROPFIND OK
+80521-105356.969 User info GET
+80521-105358.973 User info GET OK (concurrency 5 / 1 / 1)
+80521-105358.974 User info PROPFIND
+80521-105359.507 User info PROPFIND OK
+80521-105459.509 User info GET
+80521-105500.693 User info GET OK (concurrency 5 / 1 / 1)
+80521-105500.694 User info PROPFIND
+80521-105501.221 User info PROPFIND OK
+80521-105512.761 XIVA resetting event handler
+80521-105512.761 Core PAUSED
+80521-105512.761 MONITOR failure "/home/hernowo/Yandex.Disk"
+80521-105512.761 Stopped
+
+80521-122014.589 Starting (0.1.5.978)
+80521-122015.016 EXCLUDE list read error  ("22, Invalid argument")
+80521-122015.016 SPEC Read 1 / Downloads / uncustomized / safe
+80521-122015.016 SPEC Read 2 / Camera Uploads / uncustomized / safe
+80521-122015.016 SPEC Read 3 / Screenshots / uncustomized / safe
+80521-122015.017 "https://webdav.yandex.ru/disk/https%3A//webdav.yandex.ru/disk" list PROPFIND
+80521-122020.942 User info GET OK (concurrency 5 / 1 / 1)
+80521-122020.942 User info PROPFIND
+80521-122027.621 "https://webdav.yandex.ru/disk/https%3A//webdav.yandex.ru/disk" list PROPFIND 404
+80521-122027.622 Core INDEX
+80521-122027.622 User info PROPFIND OK
+80521-122027.653 DIGEST "~digest-000" open OK (72 / 4825 / 102400)
+80521-122027.653 Digest bank initialized
+80521-122027.693 STATE version 1526842527746551 read
+80521-122027.825 XIVA connecting server
+80521-122027.827 MONITOR listening for "" in "/home/hernowo/Yandex.Disk" recursively
+80521-122027.827 Queueing "sssgbmhsr4s6pik59mupuants0" <local directory listing of "">
+80521-122027.827 NOTIFICATIONS GET unviewed count
+80521-122027.834 Ending "sssgbmhsr4s6pik59mupuants0" <local directory listing of ""> : finished and removed
+80521-122032.623 Quota PROPFIND
+80521-122036.287 Quota PROPFIND OK 2008576 / 10735409664 / 53687091200 / 1667117
+80521-122036.287 Trash PROPFIND
+80521-122036.453 NOTIFICATIONS GET unviewed count http_status: 200
+80521-122036.656 XIVA server connected
+80521-122036.656 Queueing "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-122036.656 Queueing "ms5jv4lvegc7i6oime6n8l1m65" <operations listing>
+80521-122036.656 Adding dependency "ms5jv4lvegc7i6oime6n8l1m65" <operations listing> on "i5qbom90hbds1cup0pdv6j9bp6" <index>
+80521-122036.656 Index GET for version 1526842527746551
+80521-122037.324 Trash PROPFIND OK / not empty
+80521-122047.324 Releasing request to https://webdav.yandex.ru:443
+80521-122102.318 Index version 1526842527746551 received
+80521-122102.318 Ending "i5qbom90hbds1cup0pdv6j9bp6" <index> : finished and removed
+80521-122102.319 PROPFIND /operations
+80521-122102.319 Core BUSY
+80521-122115.039 User info GET
+80521-122123.953 PROPFIND /operations OK
+80521-122123.953 Ending "ms5jv4lvegc7i6oime6n8l1m65" <operations listing> : finished and removed
+80521-122123.954 Core IDLE
+80521-122123.954 GARBAGE looking for obsolete files
+80521-122133.953 Releasing request to https://webdav.yandex.ru:443
+80521-122146.640 User info GET OK (concurrency 5 / 1 / 1)
+80521-122146.640 User info PROPFIND
+80521-122152.949 User info PROPFIND OK
+80521-122207.830 MONITOR create "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-122207.830 ".git" directory / update
+80521-122207.830 LOCAL ".git" directory
+80521-122207.830 Queueing "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git">
+80521-122207.847 MONITOR modify "/home/hernowo/Yandex.Disk" / ".git/index.lock"
+80521-122207.847 ".git" directory / update
+80521-122207.847 LOCAL ".git" directory
+80521-122207.847 MONITOR rename "/home/hernowo/Yandex.Disk" / ".git/index.lock" / ".git/index"
+80521-122207.847 ".git" directory / update
+80521-122207.847 LOCAL ".git" directory
+80521-122208.848 PROP ".git/index" rh=37b3a4fc,in=1a005d2b,id=74f55033,rm=09b85657
+80521-122208.848 Queueing "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index">
+80521-122208.848 Ending "2996tacsjhnsbn7j6e1qve57h4" <local directory listing of ".git"> : finished and removed
+80521-122208.848 Queueing "bkt634n7dgnbpm3m3q841u3h82" <activity guard>
+80521-122208.848 Adding dependency "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> on "bkt634n7dgnbpm3m3q841u3h82" <activity guard>
+80521-122208.848 Core INDEX
+80521-122208.848 Ending "bkt634n7dgnbpm3m3q841u3h82" <activity guard> : removed
+80521-122208.848 Dequeueing "bkt634n7dgnbpm3m3q841u3h82" <activity guard>
+80521-122208.848 DIGEST ".git/index" read error  ("3, Element not found")
+80521-122208.848 DIGEST ".git/index"
+80521-122208.849 DIGEST ".git/index" 0 / 1334
+80521-122208.849 DIGEST ".git/index" OK
+80521-122208.849 Ending "msfbeo97auubm2ngfplkdlg480" <digest creation for ".git/index"> : finished and removed
+80521-122208.849 LOCAL ".git/index" 2bb897da 1334 file
+80521-122208.849 PROP ".git/index" lh=2bb897da,rh=37b3a4fc,in=1a005d2b,id=74f55033,rm=09b85657
+80521-122208.849 Queueing "7acj7q529elhg5gvogtiroq1f3" <upload of ".git/index">
+80521-122208.849 REDUCE ".git/index" upload file
+80521-122208.849 Core BUSY
+80521-122209.049 DIGEST 2bb897da add OK
+80521-122209.899 PUT ".git/index" mime-type set to ""
+80521-122209.899 PUT ".git/index" looking for a delta from 37b3a4fc to 2bb897da
+80521-122209.901 PUT ".git/index" gzip
+80521-122222.831 STATE version 1526842527746551 written incrementally
