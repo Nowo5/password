@@ -1107,3 +1107,284 @@
 [2936] 2018-May-27 23:42:56 - Core set status: idle
 [2936] 2018-May-28 00:16:12 - Core set status: index
 [2936] 2018-May-28 00:16:12 - Core set status: busy
+[2936] 2018-May-28 00:17:56 - Core set status: index
+[2936] 2018-May-28 00:18:09 - Core set status: idle
+[2936] 2018-May-28 01:12:54 - Core set status: index
+[2936] 2018-May-28 01:12:54 - Core set status: busy
+[2936] 2018-May-28 01:12:56 - Core set status: index
+[2936] 2018-May-28 01:12:59 - Core set status: idle
+[2936] 2018-May-28 01:14:21 - Core set status: index
+[2936] 2018-May-28 01:14:21 - Core set status: busy
+[2936] 2018-May-28 01:14:42 - Core set status: index
+[2936] 2018-May-28 01:14:52 - Core set status: idle
+[2936] 2018-May-28 01:16:02 - Core set status: index
+[2936] 2018-May-28 01:16:02 - Core set status: busy
+[2936] 2018-May-28 01:16:11 - Core set status: index
+[2936] 2018-May-28 01:16:13 - Core set status: busy
+[2936] 2018-May-28 01:16:14 - Core set status: index
+[2936] 2018-May-28 01:16:16 - Core set status: busy
+[2936] 2018-May-28 01:16:19 - Core set status: index
+[2936] 2018-May-28 01:16:29 - Core set status: idle
+[2936] 2018-May-28 01:17:23 - Core set status: index
+[2936] 2018-May-28 01:17:23 - Core set status: busy
+[2936] 2018-May-28 01:17:27 - Core set status: index
+[2936] 2018-May-28 01:17:28 - Core set status: idle
+[2936] 2018-May-28 01:17:33 - Core set status: index
+[2936] 2018-May-28 01:17:44 - Core set status: idle
+[2936] 2018-May-28 01:19:05 - Core set status: index
+[2936] 2018-May-28 01:19:05 - Core set status: busy
+[2936] 2018-May-28 01:19:11 - Core set status: index
+[2936] 2018-May-28 01:19:13 - Core set status: idle
+[2936] 2018-May-28 01:19:14 - Core set status: index
+[2936] 2018-May-28 01:19:28 - Core set status: idle
+[2936] 2018-May-28 01:19:43 - Core set status: index
+[2936] 2018-May-28 01:19:43 - Core set status: busy
+[2936] 2018-May-28 01:19:58 - Core set status: index
+[2936] 2018-May-28 01:19:59 - Core set status: idle
+[2936] 2018-May-28 01:20:00 - Core set status: index
+[2936] 2018-May-28 01:20:14 - Core set status: idle
+[2936] 2018-May-28 01:20:28 - Core set status: index
+[2936] 2018-May-28 01:20:28 - Core set status: busy
+[2936] 2018-May-28 01:20:37 - Core set status: index
+[2936] 2018-May-28 01:20:37 - Core set status: busy
+[2936] 2018-May-28 01:20:40 - Core set status: index
+[2936] 2018-May-28 01:20:58 - Core set status: idle
+[2936] 2018-May-28 01:42:36 - Core set status: index
+[2936] 2018-May-28 01:42:37 - Core set status: busy
+[2936] 2018-May-28 01:42:56 - Core set status: index
+[2936] 2018-May-28 01:42:57 - Core set status: idle
+[2936] 2018-May-28 01:43:01 - Core set status: index
+[2936] 2018-May-28 01:43:09 - Core set status: busy
+[2936] 2018-May-28 01:43:14 - Core set status: index
+[2936] 2018-May-28 01:43:29 - Core set status: idle
+[2936] 2018-May-28 02:26:39 - Core set status: paused
+[2936] 2018-May-28 02:27:35 - Restart log
+[2936] 2018-May-28 02:27:43 - Core set status: index
+[2936] 2018-May-28 02:27:47 - Core set status: paused
+[2936] 2018-May-28 02:29:20 - Restart log
+[2936] 2018-May-28 02:29:22 - Core set status: index
+[2936] 2018-May-28 02:29:22 - Core set status: paused
+[2936] 2018-May-28 02:29:23 - Restart log
+[2936] 2018-May-28 02:29:23 - Core set status: index
+[2936] 2018-May-28 02:29:24 - Core set status: paused
+[2936] 2018-May-28 02:29:25 - Restart log
+[2936] 2018-May-28 02:29:25 - Core set status: index
+[2936] 2018-May-28 02:29:26 - Core set status: paused
+[2936] 2018-May-  - Stop log
+
+[3036] 2018-May-28 09:51:31 - Start log
+[3036] 2018-May-28 09:51:34 - Core set status: index
+[3036] 2018-May-28 09:51:38 - Core set status: busy
+[3036] 2018-May-28 09:51:41 - Core set status: index
+[3036] 2018-May-28 09:51:44 - Core set status: busy
+[3036] 2018-May-28 09:54:40 - Core set status: busy
+[3036] 2018-May-28 09:54:40 - Core set status: paused
+[3036] 2018-May-28 09:54:40 - Restart log
+[3036] 2018-May-28 09:54:40 - Core set status: index
+[3036] 2018-May-28 09:54:43 - Core set status: busy
+[3036] 2018-May-28 09:58:21 - Core set status: busy
+[3036] 2018-May-28 09:58:26 - Core set status: paused
+[3036] 2018-May-28 09:58:26 - Restart log
+[3036] 2018-May-28 09:58:26 - Core set status: index
+[3036] 2018-May-28 09:58:30 - Core set status: busy
+[3036] 2018-May-28 10:00:22 - Core set status: busy
+[3036] 2018-May-28 10:00:22 - Core set status: paused
+[3036] 2018-May-28 10:00:22 - Restart log
+[3036] 2018-May-28 10:00:22 - Core set status: index
+[3036] 2018-May-28 10:00:25 - Core set status: busy
+[3036] 2018-May-28 10:02:24 - Core set status: busy
+[3036] 2018-May-28 10:02:24 - Core set status: paused
+[3036] 2018-May-28 10:02:24 - Restart log
+[3036] 2018-May-28 10:02:24 - Core set status: index
+[3036] 2018-May-28 10:02:28 - Core set status: busy
+[3036] 2018-May-28 10:07:38 - Core set status: busy
+[3036] 2018-May-28 10:07:39 - Core set status: paused
+[3036] 2018-May-28 10:07:39 - Restart log
+[3036] 2018-May-28 10:07:39 - Core set status: index
+[3036] 2018-May-28 10:07:43 - Core set status: busy
+[3036] 2018-May-28 10:14:25 - Core set status: busy
+[3036] 2018-May-28 10:14:26 - Core set status: paused
+[3036] 2018-May-28 10:14:26 - Restart log
+[3036] 2018-May-28 10:14:26 - Core set status: index
+[3036] 2018-May-28 10:14:30 - Core set status: busy
+[3036] 2018-May-28 10:21:30 - Core set status: busy
+[3036] 2018-May-28 10:21:30 - Core set status: paused
+[3036] 2018-May-28 10:21:30 - Restart log
+[3036] 2018-May-28 10:21:30 - Core set status: index
+[3036] 2018-May-28 10:21:33 - Core set status: busy
+[3036] 2018-May-28 10:27:14 - Core set status: busy
+[3036] 2018-May-28 10:27:15 - Core set status: paused
+[3036] 2018-May-28 10:27:15 - Restart log
+[3036] 2018-May-28 10:27:15 - Core set status: index
+[3036] 2018-May-28 10:27:19 - Core set status: busy
+[3036] 2018-May-28 10:29:16 - Core set status: busy
+[3036] 2018-May-28 10:29:16 - Core set status: paused
+[3036] 2018-May-28 10:29:16 - Restart log
+[3036] 2018-May-28 10:29:16 - Core set status: index
+[3036] 2018-May-28 10:29:19 - Core set status: busy
+[3036] 2018-May-28 10:34:13 - Core set status: busy
+[3036] 2018-May-28 10:34:14 - Core set status: paused
+[3036] 2018-May-28 10:34:14 - Restart log
+[3036] 2018-May-28 10:34:14 - Core set status: index
+[3036] 2018-May-28 10:34:19 - Core set status: busy
+[3036] 2018-May-28 10:40:13 - Core set status: busy
+[3036] 2018-May-28 10:40:13 - Core set status: paused
+[3036] 2018-May-28 10:40:13 - Restart log
+[3036] 2018-May-28 10:40:13 - Core set status: index
+[3036] 2018-May-28 10:40:19 - Core set status: busy
+[3036] 2018-May-28 10:47:19 - Core set status: busy
+[3036] 2018-May-28 10:47:25 - Core set status: paused
+[3036] 2018-May-28 10:47:25 - Restart log
+[3036] 2018-May-28 10:47:25 - Core set status: index
+[3036] 2018-May-28 10:47:28 - Core set status: busy
+[3036] 2018-May-28 10:52:48 - Core set status: busy
+[3036] 2018-May-28 10:52:49 - Core set status: paused
+[3036] 2018-May-28 10:52:49 - Restart log
+[3036] 2018-May-28 10:52:49 - Core set status: index
+[3036] 2018-May-28 10:52:54 - Core set status: busy
+[3036] 2018-May-28 10:54:51 - Core set status: busy
+[3036] 2018-May-28 10:54:51 - Core set status: paused
+[3036] 2018-May-28 10:54:51 - Restart log
+[3036] 2018-May-28 10:54:51 - Core set status: index
+[3036] 2018-May-28 10:54:56 - Core set status: busy
+[3036] 2018-May-28 10:59:44 - Core set status: busy
+[3036] 2018-May-28 10:59:45 - Core set status: paused
+[3036] 2018-May-28 10:59:45 - Restart log
+[3036] 2018-May-28 10:59:45 - Core set status: index
+[3036] 2018-May-28 10:59:50 - Core set status: busy
+[3036] 2018-May-28 11:05:36 - Core set status: busy
+[3036] 2018-May-28 11:05:36 - Core set status: paused
+[3036] 2018-May-28 11:05:36 - Restart log
+[3036] 2018-May-28 11:05:36 - Core set status: index
+[3036] 2018-May-28 11:05:41 - Core set status: busy
+[3036] 2018-May-28 11:12:25 - Core set status: busy
+[3036] 2018-May-28 11:12:25 - Core set status: paused
+[3036] 2018-May-28 11:12:25 - Restart log
+[3036] 2018-May-28 11:12:25 - Core set status: index
+[3036] 2018-May-28 11:12:29 - Core set status: busy
+[3036] 2018-May-28 11:19:20 - Core set status: busy
+[3036] 2018-May-28 11:19:21 - Core set status: paused
+[3036] 2018-May-28 11:19:21 - Restart log
+[3036] 2018-May-28 11:19:21 - Core set status: index
+[3036] 2018-May-28 11:19:25 - Core set status: busy
+[3036] 2018-May-28 11:21:27 - Do stop by OS signal
+[3036] 2018-May-28 11:21:27 - Core set status: paused
+[25434] 2018-May-28 13:46:23 - Start log
+[25434] 2018-May-28 13:48:38 - Core set status: index
+[25434] 2018-May-28 13:48:55 - Do stop by OS signal
+[2930] 2018-May-28 15:20:28 - Start log
+[2930] 2018-May-28 15:20:35 - Core set status: index
+[2930] 2018-May-28 15:20:38 - Core set status: busy
+[2930] 2018-May-28 15:20:39 - Core set status: index
+[2930] 2018-May-28 15:20:44 - Core set status: busy
+[2930] 2018-May-28 15:27:34 - Core set status: busy
+[2930] 2018-May-28 15:27:34 - Core set status: paused
+[2930] 2018-May-28 15:27:34 - Restart log
+[2930] 2018-May-28 15:27:34 - Core set status: index
+[2930] 2018-May-28 15:27:38 - Core set status: busy
+[2930] 2018-May-28 15:28:24 - Core set status: index
+[2930] 2018-May-28 15:28:26 - Core set status: idle
+[2930] 2018-May-28 15:28:35 - Core set status: index
+[2930] 2018-May-28 15:28:41 - Core set status: idle
+[2930] 2018-May-28 16:25:38 - Core set status: idle
+[2930] 2018-May-28 16:25:38 - Core set status: paused
+[2930] 2018-May-28 16:25:38 - Restart log
+[2930] 2018-May-28 16:25:38 - Core set status: index
+[2930] 2018-May-28 16:25:43 - Core set status: busy
+[2930] 2018-May-28 16:25:46 - Core set status: idle
+[2930] 2018-May-28 16:33:36 - Do stop by OS signal
+[2786] 2018-May-29 08:31:32 - Start log
+[2786] 2018-May-29 08:31:35 - Core set status: index
+[2786] 2018-May-29 08:31:40 - Core set status: busy
+[2786] 2018-May-29 08:31:41 - Core set status: index
+[2786] 2018-May-29 08:31:48 - Core set status: idle
+[2786] 2018-May-29 08:57:24 - Core set status: idle
+[2786] 2018-May-29 08:57:25 - Core set status: paused
+[2786] 2018-May-29 08:57:25 - Restart log
+[2786] 2018-May-29 08:57:25 - Core set status: index
+[2786] 2018-May-29 08:57:28 - Core set status: busy
+[2786] 2018-May-29 08:57:29 - Core set status: index
+[2786] 2018-May-29 08:57:30 - Core set status: idle
+[2786] 2018-May-29 09:32:20 - Core set status: paused
+[2786] 2018-May-29 09:32:20 - Restart log
+[2786] 2018-May-29 09:32:20 - Core set status: index
+[2786] 2018-May-29 09:32:33 - Core set status: busy
+[2786] 2018-May-29 09:32:34 - Core set status: idle
+[2786] 2018-May-29 09:49:07 - Core set status: idle
+[2786] 2018-May-29 09:49:07 - Core set status: paused
+[2786] 2018-May-29 09:49:07 - Restart log
+[2786] 2018-May-29 09:49:07 - Core set status: index
+[2786] 2018-May-29 09:49:11 - Core set status: busy
+[2786] 2018-May-29 09:49:12 - Core set status: index
+[2786] 2018-May-29 09:49:13 - Core set status: idle
+[2786] 2018-May-29 09:51:31 - Core set status: idle
+[2786] 2018-May-29 09:51:31 - Core set status: paused
+[2786] 2018-May-29 09:51:31 - Restart log
+[2786] 2018-May-29 09:51:31 - Core set status: index
+[2786] 2018-May-29 09:51:40 - Core set status: busy
+[2786] 2018-May-29 09:51:43 - Core set status: idle
+[2786] 2018-May-29 10:04:00 - Core set status: idle
+[2786] 2018-May-29 10:04:20 - Core set status: paused
+[2786] 2018-May-29 10:04:20 - Restart log
+[2786] 2018-May-29 10:04:20 - Core set status: index
+[2786] 2018-May-29 10:06:48 - Core set status: busy
+[2786] 2018-May-29 10:06:49 - Core set status: idle
+[2786] 2018-May-29 10:17:00 - Core set status: idle
+[2786] 2018-May-29 10:17:01 - Core set status: paused
+[2786] 2018-May-29 10:17:01 - Restart log
+[2786] 2018-May-29 10:17:01 - Core set status: index
+[2786] 2018-May-29 10:17:05 - Core set status: busy
+[2786] 2018-May-29 10:17:06 - Core set status: index
+[2786] 2018-May-29 10:17:07 - Core set status: idle
+[2786] 2018-May-29 10:23:29 - Core set status: idle
+[2786] 2018-May-29 10:23:29 - Core set status: paused
+[2786] 2018-May-29 10:23:29 - Restart log
+[2786] 2018-May-29 10:23:29 - Core set status: index
+[2786] 2018-May-29 10:23:36 - Core set status: busy
+[2786] 2018-May-29 10:23:37 - Core set status: idle
+[2786] 2018-May-29 11:33:59 - Core set status: idle
+[2786] 2018-May-29 11:34:00 - Core set status: paused
+[2786] 2018-May-29 11:34:00 - Restart log
+[2786] 2018-May-29 11:34:00 - Core set status: index
+[2786] 2018-May-29 11:34:05 - Core set status: busy
+[2786] 2018-May-29 11:34:06 - Core set status: index
+[2786] 2018-May-29 11:34:06 - Core set status: idle
+[2786] 2018-May-29 11:39:49 - Core set status: idle
+[2786] 2018-May-29 11:39:49 - Core set status: paused
+[2786] 2018-May-29 11:39:49 - Restart log
+[2786] 2018-May-29 11:39:49 - Core set status: index
+[2786] 2018-May-29 11:40:02 - Core set status: busy
+[2786] 2018-May-29 11:40:16 - Core set status: idle
+[2786] 2018-May-29 12:13:14 - Core set status: idle
+[2786] 2018-May-29 12:13:14 - Core set status: paused
+[2786] 2018-May-29 12:13:14 - Restart log
+[2786] 2018-May-29 12:13:14 - Core set status: index
+[2786] 2018-May-29 12:13:18 - Core set status: busy
+[2786] 2018-May-29 12:13:20 - Core set status: index
+[2786] 2018-May-29 12:13:22 - Core set status: idle
+[2786] 2018-May-29 12:53:52 - Core set status: idle
+[2786] 2018-May-29 12:53:52 - Core set status: paused
+[2786] 2018-May-29 12:53:53 - Restart log
+[2786] 2018-May-29 12:53:53 - Core set status: index
+[2786] 2018-May-29 12:53:58 - Core set status: busy
+[2786] 2018-May-29 12:53:59 - Core set status: index
+[2786] 2018-May-29 12:54:00 - Core set status: idle
+[2786] 2018-May-29 13:05:47 - Core set status: index
+[2786] 2018-May-29 13:05:48 - Core set status: busy
+[2786] 2018-May-29 13:05:49 - Core set status: idle
+[2786] 2018-May-29 14:51:45 - Core set status: idle
+[2786] 2018-May-29 14:51:46 - Core set status: paused
+[2786] 2018-May-29 14:51:46 - Restart log
+[2786] 2018-May-29 14:51:46 - Core set status: index
+[2786] 2018-May-29 14:51:49 - Core set status: busy
+[2786] 2018-May-29 14:51:50 - Core set status: index
+[2786] 2018-May-29 14:51:51 - Core set status: idle
+[2786] 2018-May-29 15:05:36 - Do stop by OS signal
+[2973] 2018-May-29 22:45:33 - Start log
+[2973] 2018-May-29 22:45:44 - Core set status: index
+[2973] 2018-May-29 22:45:52 - Core set status: busy
+[2973] 2018-May-29 22:45:52 - Core set status: idle
+[2973] 2018-May-30 01:11:02 - Core set status: index
+[2973] 2018-May-30 01:11:02 - Core set status: busy
+[2973] 2018-May-30 01:11:05 - Core set status: index
+[2973] 2018-May-30 01:11:08 - Core set status: busy
