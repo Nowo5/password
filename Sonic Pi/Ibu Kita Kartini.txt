@@ -1,0 +1,42 @@
+define :structure do |a,b,c,d|
+  2.times { a.call }
+  sleep 0
+  1.times { b.call + c.call + b.call + d.call }
+end
+
+define :try do |b,d|
+  1.times { b.call + d.call }
+end
+
+in_thread do
+  use_synth :dsaw
+  a = -> {play_pattern_timed([71,nil,nil,73,75,nil,76,nil,78,nil,nil,75,71,nil,nil,nil,
+                              80,nil,nil,83,82,nil,80,nil,78,nil,nil,nil,nil,nil,nil,nil,76,nil,nil,
+                              80,78,nil,76,nil,75,nil,nil,nil,71,nil,nil,nil,73,nil,nil,76,
+                              75,nil,73,nil,71,nil,nil,nil,nil,nil,nil,nil], [0.25])}
+  b = -> {play_pattern_timed([76,nil,nil,75,76,nil,80,nil,78,80,78,75,71,nil,75,nil,], [0.25])}
+  c = -> {play_pattern_timed([73,nil,75,nil, 76,nil,78,nil,75,nil,nil,nil,nil,nil,nil,nil], [0.25])}
+  d = -> {play_pattern_timed([73,nil,76,nil,70,nil,73,nil,71], [0.25])}
+  structure(a,b,c,d)
+end
+
+in_thread do
+  loop do
+    sample :drum_heavy_kick
+    sleep 0.75
+  end
+end
+
+in_thread do
+  loop do
+    sample :drum_snare_hard
+    sleep 0.5
+  end
+end
+
+in_thread do
+  loop do
+    sample :drum_cymbal_hard
+    sleep 2
+  end
+end

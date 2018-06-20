@@ -1,0 +1,30 @@
+define :structure do |a|
+  1.times {a.call}
+end
+
+in_thread(name: :awal) do
+  a = -> {
+    use_synth :pretty_bell
+    play_pattern_timed([71,nil,nil,nil,nil,nil,78,nil,78,nil,nil,nil,nil,nil,nil,71,69,nil,nil,nil,nil,nil,
+                        76,nil,76,nil,nil,nil,nil,nil,nil,nil,71,nil,71,nil,73,nil,71,nil,73,nil,nil,nil,nil,nil,
+                        71,nil,69,nil,nil,nil,nil,nil,76,nil,76], [0.25])}
+  b = -> {
+    use_synth :dsaw
+    play_pattern_timed([71,nil,nil,nil,nil,nil,78,nil,78,nil,nil,nil,nil,nil,nil,71,69,nil,nil,nil,nil,nil,
+                        76,nil,76,nil,nil,nil,71,nil,73,nil,74,nil,nil,76,nil,nil,78,nil,76,nil,nil,73,nil,nil,
+                        69,nil,71], [0.25],amp: 0.5)}
+  structure(a)
+  sleep 1.75
+  structure(b)
+end
+
+in_thread(name: :tengah) do
+  b = -> {
+    use_synth :pretty_bell
+    with_fx :echo do
+      play_pattern_timed([nil,71,nil,nil,nil,nil,nil,78,nil,78,nil,nil,nil,nil,nil,nil,71,69,nil,nil,nil,nil,nil,
+                          76,nil,76,nil,nil,nil,nil,nil,nil,nil,71,nil,71,nil,73,nil,71,nil,73,nil,nil,nil,nil,nil,
+                          71,nil,69,nil,nil,nil,nil,nil,76,nil,76], [0.25],amp: 0.2)
+  end}
+  structure(b)
+end
