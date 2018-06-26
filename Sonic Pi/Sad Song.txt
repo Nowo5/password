@@ -12,10 +12,76 @@ in_thread(name: :awal) do
     use_synth :dsaw
     play_pattern_timed([71,nil,nil,nil,nil,nil,78,nil,78,nil,nil,nil,nil,nil,nil,71,69,nil,nil,nil,nil,nil,
                         76,nil,76,nil,nil,nil,71,nil,73,nil,74,nil,nil,76,nil,nil,78,nil,76,nil,nil,73,nil,nil,
-                        69,nil,71], [0.25],amp: 0.5)}
+                        69,nil,], [0.25],amp: 0.5)}
+
+  c = -> {
+    play 71,amp: 0.5
+    sleep 0.25
+    with_fx :echo do
+      use_synth :pretty_bell
+      play 71
+  end}
+
+  d = -> {
+    use_bpm 80
+    sample :drum_bass_hard, amp: 7
+    sleep 0.25
+    sample :drum_bass_soft, amp: 7
+    sleep 0.25
+    sample :drum_bass_hard, amp: 7
+    sleep 0.1
+    sample :drum_bass_soft, amp: 7
+    sleep 0.25
+    sample :drum_bass_hard, amp: 7
+    sleep 0.25
+    sample :drum_bass_soft, amp: 7
+    sleep 0.25
+    sample :drum_bass_hard, amp: 7
+    sleep 0.1
+    sample :drum_bass_soft, amp: 7
+    sleep 0.25
+    sample :drum_bass_hard, amp: 9
+    sleep 0.25
+    sample :drum_bass_hard, amp: 9
+  }
+
+  e = -> {
+    loop do
+      use_bpm 80
+      sample :drum_bass_hard, amp: 3
+      sleep 0.5
+      sample :drum_bass_soft, amp: 3
+      sleep 0.5
+      sample :drum_bass_hard, amp: 3
+      sleep 0.25
+      sample :drum_bass_hard, amp: 3
+      sleep 0.25
+      sample :drum_bass_soft, amp: 3
+      sleep 0.25
+      sample :drum_bass_hard, amp: 3
+      sleep 0.5
+      sample :drum_bass_hard, amp: 3
+      sleep 0.25
+      sample :drum_bass_soft, amp: 3
+      sleep 0.5
+      sample :drum_bass_hard, amp: 5
+      sleep 0.25
+      sample :drum_bass_hard, amp: 5
+      sleep 0.25
+      sample :drum_bass_soft, amp: 3
+      sleep 0.25
+      sample :drum_bass_soft, amp: 5
+      sleep 0.25
+    end
+  }
+
   structure(a)
   sleep 1.75
   structure(b)
+  structure(c)
+  sleep 2.5
+  structure(d)
+  structure(e)
 end
 
 in_thread(name: :tengah) do
@@ -26,5 +92,13 @@ in_thread(name: :tengah) do
                           76,nil,76,nil,nil,nil,nil,nil,nil,nil,71,nil,71,nil,73,nil,71,nil,73,nil,nil,nil,nil,nil,
                           71,nil,69,nil,nil,nil,nil,nil,76,nil,76], [0.25],amp: 0.2)
   end}
+  c = -> {
+    use_synth :pretty_bell
+    play_pattern_timed([nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,nil,
+                        nil,nil,nil,nil,nil,nil,71,nil,73,nil,74,nil,nil,76,nil,nil,78,nil,76,nil,nil,73,nil,nil,
+                        69,nil,], [0.25],amp: 0.3)}
+
   structure(b)
+  sleep 1.75
+  structure(c)
 end
